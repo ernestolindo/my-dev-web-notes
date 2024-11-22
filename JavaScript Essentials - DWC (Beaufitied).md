@@ -206,4 +206,7 @@ A method used to start multiple Promises simultaneously, i. e., not sequentially
 
 ## **Fetch API**
 
-The `fetch()` asynchronous method retrieves data from a variety of sources, including URLs and local files. It's a cornerstone for web developer because it allows us to load data dynamically without needing to refresh the page.
+The `fetch()` asynchronous method retrieves data from a variety of sources, including URLs and local files. It's a cornerstone for web developer because it allows us to load data dynamically without needing to refresh the page. It's worth to note that while the fetch() only rejects the Promise if 
+
+- **Response.ok**: This is a boolean property that is `true` if the response status code is in the range 200-299, indicating a successful response.
+- **Response.status**: This property provides the actual status code returned by the server, allowing developers to handle different responses appropriately.
