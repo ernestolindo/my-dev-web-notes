@@ -146,8 +146,6 @@ The **Notification API** allows web applications to display notifications to the
 
 A **Promise** is an object that represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
 
-### *Promise syntax*
-
 ```
 new Promise((resolve, reject) => {
   // Perform some asynchronous task
@@ -158,8 +156,6 @@ new Promise((resolve, reject) => {
   }
 });
 ```
-
-### *Using Promises*
 
 Promises are used to handle asynchronous operations, like making API requests or performing time-consuming tasks, without blocking the main thread.
 
@@ -181,12 +177,9 @@ In this example:
 - **`fetch()`** returns a Promise that resolves with the response.
 - The `.then()` method handles the resolved value, and `.catch()` handles any errors.
 
----
-
-## **Async/Await**
+### *Async/Await*
 
 **`async`** and **`await`** are modern JavaScript keywords used to handle asynchronous operations in a more readable and synchronous-like style. An `async` function always returns a **Promise**, and within it, you can use `await` to pause execution until the Promise is resolved.
-### *Syntax*
 
 ```
 async function fetchData() {
@@ -204,3 +197,7 @@ fetchData();
 
 - **`await`** pauses the execution of the `async` function until the **Promise** resolves or rejects.
 - **`try/catch`** is used for error handling, making it easier to manage asynchronous errors.
+
+### *Promise.all()*
+
+A method used to start multiple Promises simultaneously, i. e., not sequentially. If any Promise rejects, the entire operation fails. It takes an array as the parameter and resolves to an array containing the resolved values of each input Promise.
