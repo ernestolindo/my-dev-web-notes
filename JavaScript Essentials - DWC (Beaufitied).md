@@ -201,3 +201,9 @@ fetchData();
 ### *Promise.all()*
 
 A method used to start multiple Promises simultaneously, i. e., not sequentially. If any Promise rejects, the entire operation fails. It takes an array as the parameter and resolves to an array containing the resolved values of each input Promise.
+
+---
+
+## **Fetch API**
+
+the `fetch()` method allows us to retrieve data from 
