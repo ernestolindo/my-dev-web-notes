@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52aaa591d17dec57",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Three laws of motion.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Three laws of motion)"
-            }
-          },
-          {
             "id": "2218e1eab4c4a4d4",
             "type": "leaf",
             "state": {
@@ -182,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52aaa591d17dec57",
+  "active": "d66fdab2f952c2d5",
   "lastOpenFiles": [
     "Three laws of motion.md",
     "JavaScript Essentials - DWC (Beaufitied).md",
