@@ -210,3 +210,13 @@ The `fetch()` asynchronous method retrieves data from a variety of sources, incl
 
 - **Response.ok**: This is a boolean property that is `true` if the response status code is in the range 200-299, indicating a successful response.
 - **Response.status**: This property provides the actual status code returned by the server, allowing developers to handle different responses appropriately.
+
+### *Comparison of `json()`, `stringify()`, and `text()` in JavaScript*
+
+These methods are essential when working with APIs and the `fetch()` method, as they handle parsing and serializing data for requests and responses.
+
+|**Method**|**Purpose**|**Typical Use Case**|**Relation to APIs**|
+|---|---|---|---|
+|**`json()`**|Parses a JSON string from a response into a JavaScript object.|Used with the `fetch()` method to process API responses that return JSON-formatted data.|Converts API response data into a format your code can work with (JavaScript objects).|
+|**`stringify()`**|Converts a JavaScript object into a JSON string.|Used to prepare JavaScript objects for sending as the body in API requests.|Encodes the request payload into a JSON string, commonly for POST or PUT requests.|
+|**`text()`**|Reads the raw text from a response, without attempting to parse it.|Used when working with APIs that return plain text, HTML, or other non-JSON data.|Retrieves raw text from an API, often for custom parsing or debugging non-JSON responses.|
