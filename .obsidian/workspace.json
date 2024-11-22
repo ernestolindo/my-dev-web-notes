@@ -11,42 +11,13 @@
             "id": "52aaa591d17dec57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript Essentials - DWC (Beaufitied).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JavaScript Essentials - DWC (Beaufitied)"
-            }
-          },
-          {
-            "id": "063d0fe4bf30853e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Three laws of motion.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Three laws of motion"
-            }
-          },
-          {
-            "id": "584529f253466a37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Three laws of motion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Three laws of motion"
+              "icon": "git-pull-request",
+              "title": "Diff View (Three laws of motion)"
             }
           },
           {
@@ -63,8 +34,7 @@
               "title": "Law of Inertia"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Three laws of motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Three laws of motion"
+              "title": "Backlinks"
             }
           },
           {
@@ -184,13 +153,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d66fdab2f952c2d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,16 +178,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "584529f253466a37",
+  "active": "52aaa591d17dec57",
   "lastOpenFiles": [
-    "Isaac Newton.md",
     "Three laws of motion.md",
+    "JavaScript Essentials - DWC (Beaufitied).md",
+    "Isaac Newton.md",
     "Law of Inertia.md",
     "Obsidian.md",
-    "JavaScript Essentials - DWC (Beaufitied).md",
     "desktop.ini",
     "JavaScript Essentials - Desarrollo Web Completo.md",
     "Blog De Cafe - Performance y Metadata.md"
