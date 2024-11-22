@@ -206,7 +206,7 @@ A method used to start multiple Promises simultaneously, i. e., not sequentially
 
 ## **Fetch API**
 
-The `fetch()` asynchronous method retrieves data from a variety of sources, including URLs and local files. It's a cornerstone for web developer because it allows us to load data dynamically without needing to refresh the page. It's worth to note that while the fetch() only rejects the Promise if 
+The `fetch()` asynchronous method retrieves data from a variety of sources, including URLs and local files. It's a cornerstone for web developer because it allows us to load data dynamically without needing to refresh the page. It returns a [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) that resolves to a [`Response`](https://developer.mozilla.org/en-US/docs/Web/API/Response) object. It's worth to note that the `fetch()` only rejects the Promise when the request fails, for example, because of a badly-formed request URL or a network error. The developer must use a `then()` handler to check the [`Response.ok`](https://developer.mozilla.org/en-US/docs/Web/API/Response/ok) and/or [`Response.status`](https://developer.mozilla.org/en-US/docs/Web/API/Response/status) properties. 
 
 - **Response.ok**: This is a boolean property that is `true` if the response status code is in the range 200-299, indicating a successful response.
 - **Response.status**: This property provides the actual status code returned by the server, allowing developers to handle different responses appropriately.
