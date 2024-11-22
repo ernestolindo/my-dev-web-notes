@@ -142,7 +142,7 @@ The **Notification API** allows web applications to display notifications to the
 
 ---
 
-## **Promises in JavaScript
+## **Promises in JavaScript**
 
 A **Promise** is an object that represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
 

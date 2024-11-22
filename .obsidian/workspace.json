@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law of Inertia.md",
-                "mode": "source",
+                "file": "JavaScript Essentials - DWC (Beaufitied).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Law of Inertia"
+              "title": "JavaScript Essentials - DWC (Beaufitied)"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript Essentials - DWC (Beaufitied).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for JavaScript Essentials - DWC (Beaufitied)"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavaScript Essentials - DWC (Beaufitied).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from JavaScript Essentials - DWC (Beaufitied)"
             }
           },
           {
@@ -152,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,12 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d66fdab2f952c2d5",
+  "active": "2218e1eab4c4a4d4",
   "lastOpenFiles": [
+    "Law of Inertia.md",
     "Three laws of motion.md",
     "JavaScript Essentials - DWC (Beaufitied).md",
     "Isaac Newton.md",
-    "Law of Inertia.md",
     "Obsidian.md",
     "desktop.ini",
     "JavaScript Essentials - Desarrollo Web Completo.md",
