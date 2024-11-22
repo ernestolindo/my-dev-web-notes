@@ -206,4 +206,4 @@ A method used to start multiple Promises simultaneously, i. e., not sequentially
 
 ## **Fetch API**
 
-the `fetch()` method allows us to retrieve data from 
+The `fetch()` asynchronous method retrieves data from a variety of sources, including URLs and local files. It's a cornerstone for web developer because it allows us to load data dynamically without needing to refresh the page.
