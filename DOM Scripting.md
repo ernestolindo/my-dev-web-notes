@@ -11,3 +11,7 @@ For most modern JavaScript applications they are recommended because they suppor
 
 JavaScript allows us to create dynamic HTML elements using the `createElement()` method, which has properties like `element.textContent`, `element.classList` and `element.attribute` to personalize our element. An element can be added to the document as an element's child using the `appendChild()` function.
 
+## Events
+
+The window object includes  `addEventListener()` defines an event to listen to, and fires a function when the event is dispatched.
+
