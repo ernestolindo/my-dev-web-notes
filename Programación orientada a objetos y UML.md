@@ -13,4 +13,4 @@ La programación orientada a objetos es un paradigma de programación, es decir,
 
 ## **UML**
 
-Unified Modeling Language. Lenguaje de modelado que ofrece múltiples diagramas que sirven para documentar, diseñar y compartir con stakeholders sistemas de software basados en los principios de POO. Es una manera visual de presentar el sistema.
+Unified Modeling Language. Lenguaje de modelado que ofrece múltiples diagramas que sirven para documentar, diseñar y compartir con stakeholders sistemas de software basados en los principios de POO. Es una manera gráfica de presentar el sistema. El diagrama más común en POO es el diagrama de clases, que nos ayuda a representar la estructura estática del sistema: clases, atributos, métodos y relaciones.
