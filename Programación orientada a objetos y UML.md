@@ -6,4 +6,5 @@ La programación orientada a objetos es un paradigma de programación, es decir,
 
 ### Principios de POO
 
--    Abstracción: Simplificar sistemas complejos, mostrando solo las características esenciales de un objeto
+- Abstracción: Simplificar sistemas complejos, de manera que se presenten solo las características esenciales del sistema.
+- Poliformismo: Se relaciona con la abstracción en el sentido que, 
