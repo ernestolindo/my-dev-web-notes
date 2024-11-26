@@ -1,62 +1,34 @@
 # Actualizar y eliminar una aerolínea - FSJ
 
-## Solución de mi error
+## Solución de mi error en la función `getAerolineaPorId()`
 
-La variable **$id** obtenida desde la URL viene como **string**, mientras que el id guardado en el array es de tipo **number**.
+La variable **$id** obtenida desde la URL viene como **string**, mientras que el id guardado en el array es de tipo **number**, por ello se retorna FALSE al utilizar el operador de comparación estricto. Solución: ==utilizar el loose equality operator==.
+
+```
+function getAerolineaPorId($id, $aerolineas)
+
+{
+
+    foreach ($aerolineas as $aerolinea) {
+
+        if ($aerolinea->getId() == $id) {
+
+            return $aerolinea;
+
+        }
+
+    };
+
+}
+```
 
 ---
 
-Que el form nos deje editar un registro preexistente... cambiar el form
+## Editar un registro
 
-```
-<?php
-
-    if (isset($_GET['edit'])) {
-
-        $aerolineaEditable = getAerolineaPorId($_GET['edit'], $aerolineas);
-
-        echo "<pre>";
-
-        print_r($aerolineaEditable);
-
-        echo "</pre>";
-
-    ?>
-
-  
-
-        <form method="POST" action="">
-
-            <label>Nombre Aerolinea</label>
-
-            <input type="text" name="nombre" value="<?php echo $aerolineaEditable->getNombre() ?>">
-
-  
-
-            <label>Cantidad de aviones</label>
-
-            <input type="text" name="cantAviones" value="<?php echo $aerolineaEditable->getCant_aviones() ?>">
-
-  
-
-            <label>Tipo de aerolinea</label>
-
-            <input type="text" name="tipoAerolinea" value="<?php echo $aerolineaEditable->getTipo_aerolinea() ?>">
-
-  
-
-            <button type="submit">Editar aerolinea</button>
-
-        </form>
-
-    <?php } ?>
-```
-
-Movimos la llavecita y se arreglo
-
-...
-
-if... else
+1. Crear un botón de edición para cada registro
+1. Crear un formulario de edición
+2. Si existe la llave `edit` en el superglobal `$_GET`, mostrar el formulario de edición. Si no, mostrar el formulario de creación.
 
 --- 
 
