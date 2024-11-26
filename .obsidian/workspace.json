@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOM Scripting.md",
+                "file": "Actualizar y eliminar una aerolínea - FSJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOM Scripting"
+              "title": "Actualizar y eliminar una aerolínea - FSJ"
             }
           }
         ],
@@ -189,10 +189,10 @@
   },
   "active": "20105a69533af6e6",
   "lastOpenFiles": [
-    "Borrador FSJ 25-11-24.md",
+    "DOM Scripting.md",
+    "Actualizar y eliminar una aerolínea - FSJ.md",
     "desktop.ini",
     "Programación orientada a objetos y UML.md",
-    "DOM Scripting.md",
     "HTML Test.md",
     "Law of Inertia.md",
     "Three laws of motion.md",
