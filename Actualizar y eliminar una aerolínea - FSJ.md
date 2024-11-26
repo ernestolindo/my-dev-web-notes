@@ -38,4 +38,6 @@ function getAerolineaPorId($id, $aerolineas)
 
 1. Crear un botón de eliminación para cada registro que al ser presionado pase el ID correspondiente como valor del parámetro `delete` en el query string de la URL.
 2. Si existe el parámetro `delete` en el superglobal `$_GET`, recorrer el array de **aerolíneas**.
-3. Sí el **id** de la aerolínea del array concuerda con el **id** enviando en el `$_GET`
+3. Sí el **id** de la aerolínea del array concuerda con el **id** enviando en el `$_GET`, utilizar  la función `unset()` para eliminar el elemento del arreglo y salir del bucle con el `break` statement.
+4. Reasignar el arreglo actualizado a `$_SESSION['aerolineas']` para que los cambios se reflejen en la sesión.
+5. Redirigir con `header("Location: ")` para quitar el query string de la URL. 
