@@ -93,3 +93,9 @@ el form de editar crea un nuevo registro.
 problema con el post
 
 enviar el tipo de form con el submit 
+
+```
+if (isset($_POST['createForm'])) {
+```
+
+task: autocorrect y/n
