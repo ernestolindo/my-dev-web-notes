@@ -42,3 +42,7 @@ console.log(person[property]);
 ### `submit` event vs `click` event in forms
 
 When you use both events (click and submit) together, using `preventDefault()` on the click event cancels the normal flow of the submit event because when you click on the submission button the `click` event fires first. To avoid conflicts, it is recommended to use only the submit event in the form, as this covers all forms of submission, including clicks and the Enter key.
+
+### Form validation
+
+Form validation is ==a process that checks user input against specific rules before it's submitted to a server==.
