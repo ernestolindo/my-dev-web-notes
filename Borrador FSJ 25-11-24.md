@@ -115,3 +115,36 @@ comparamos el id del objeto con el id del POST
 clase para definiciones... getters y setters
 y 
 clase para CRUD
+
+## eliminar una aerolinea
+
+```
+
+if (isset($_GET['delete'])) {
+
+    $idDelete = $_GET['delete'];
+
+    foreach ($aerolineas as $key => $aerolinea) {
+
+        if ($aerolinea->getId() == $idDelete) {
+
+            unset($aerolineas[$key]);
+
+            break; // salir del bucle
+
+        }
+
+    };
+
+}
+```
+
+como se usa el unset?
+explica eso....
+
+explica el foreach...
+
+para que esta linea...
+$_SESSION['aerolineas'] = $aerolineas;
+
+por qué solo para el delete y no para el edit?
