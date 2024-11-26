@@ -99,3 +99,7 @@ if (isset($_POST['createForm'])) {
 ```
 
 task: autocorrect y/n
+
+---
+
+encontrar la aerolínea a actualizar y cambiarle los valores.
