@@ -103,3 +103,15 @@ task: autocorrect y/n
 ---
 
 encontrar la aerolínea a actualizar y cambiarle los valores.
+
+```
+if ($aerolinea->getId() == $_POST['id']) {
+```
+
+comparamos el id del objeto con el id del POST
+
+---
+
+clase para definiciones... getters y setters
+y 
+clase para CRUD
