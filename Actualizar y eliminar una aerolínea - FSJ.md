@@ -26,9 +26,9 @@ function getAerolineaPorId($id, $aerolineas)
 
 ## Editar un registro
 
-1. Crear un botón de edición para cada registro
-1. Crear un formulario de edición
-2. Si existe la llave `edit` en el superglobal `$_GET`, mostrar el formulario de edición. Si no, mostrar el formulario de creación.
+1. Crear un botón de edición para cada registro que al ser presionado pase el ID correspondiente como valor del parámetro `edit` en el query string de la URL.
+2. Crear un formulario de edición.
+4. Si existe la llave `edit` en el superglobal `$_GET`, obtener el objeto de la aerolínea correspondiente usando el método mostrar el formulario de edición. Si no, mostrar el formulario de creación.
 
 --- 
 
