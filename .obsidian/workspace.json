@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Programación orientada a objetos y UML"
             }
+          },
+          {
+            "id": "20105a69533af6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Borrador FSJ 25-11-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Borrador FSJ 25-11-24"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,10 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dea7ae26890433cd",
+  "active": "20105a69533af6e6",
   "lastOpenFiles": [
-    "DOM Scripting.md",
     "Programación orientada a objetos y UML.md",
+    "Borrador FSJ 25-11-24.md",
+    "DOM Scripting.md",
     "HTML Test.md",
     "Law of Inertia.md",
     "Three laws of motion.md",
