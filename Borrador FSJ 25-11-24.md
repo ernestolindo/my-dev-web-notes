@@ -89,3 +89,7 @@ si hubieramos hecho los modulos en otra vista lo que cargariamos seria el requir
 ---
 
 el form de editar crea un nuevo registro. 
+
+problema con el post
+
+enviar el tipo de form con el submit 
