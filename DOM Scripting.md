@@ -20,3 +20,21 @@ addEventListener(type, listener)
 ```
 
 The `addEventListener()` method is available for any HTML element selected to use. The callback accepts a single parameter: an object describing the event that has occurred.
+
+### Some common events
+
+- "**click**": when an element is clicked
+- "**change**": is fired for [`<input>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input), [`<select>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select), and [`<textarea>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea) elements when the user modifies the element's value after the element loses focus 
+- "**input**": is fired for each alteration to an element's `value`.
+
+### Square bracket syntax to access the properties of an object
+
+It is possible to use square bracket syntax to access the properties of an object in JavaScript. This is an alternative to the dot (`.`) notation and provides more flexibility, especially in cases where the property name is dynamic.
+
+```
+const person = { name: "Zat", age: 20, "favorite color": "blue" };
+
+// Accessing properties dynamically 
+const property = "name"; 
+console.log(person[property]);
+```
