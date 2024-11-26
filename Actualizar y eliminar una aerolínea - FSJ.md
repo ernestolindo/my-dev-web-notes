@@ -37,34 +37,5 @@ function getAerolineaPorId($id, $aerolineas)
 ## Eliminar una aerolínea
 
 1. Crear un botón de eliminación para cada registro que al ser presionado pase el ID correspondiente como valor del parámetro `delete` en el query string de la URL.
-
-```
-
-if (isset($_GET['delete'])) {
-
-    $idDelete = $_GET['delete'];
-
-    foreach ($aerolineas as $key => $aerolinea) {
-
-        if ($aerolinea->getId() == $idDelete) {
-
-            unset($aerolineas[$key]);
-
-            break; // salir del bucle
-
-        }
-
-    };
-
-}
-```
-
-como se usa el unset?
-explica eso....
-
-explica el foreach...
-
-para que esta linea...
-$_SESSION['aerolineas'] = $aerolineas;
-
-por qué solo para el delete y no para el edit?
+2. Si existe el parámetro `delete` en el superglobal `$_GET`, recorrer el array de **aerolíneas**.
+3. Sí el **id** de la aerolínea del array concuerda con el **id** enviando en el `$_GET`
