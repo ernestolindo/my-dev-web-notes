@@ -24,7 +24,7 @@ function getAerolineaPorId($id, $aerolineas)
 
 ---
 
-## Editar un registro
+## Editar una aerolínea
 
 1. Crear un botón de edición para cada registro que al ser presionado pase el ID correspondiente como valor del parámetro `edit` en el query string de la URL.
 2. Crear un formulario de edición.
@@ -34,45 +34,9 @@ function getAerolineaPorId($id, $aerolineas)
 7. Sí el **id** de la aerolínea del array concuerda con el **id** enviando en el `$_POST`, utilizar los setters para reemplazar los datos actuales del objeto por los enviados en el form.
 
 --- 
+## Eliminar una aerolínea
 
-si hubieramos hecho los modulos en otra vista lo que cargariamos seria el require...
-
-
-
-> [!This is a note] This is the title
-> Disfruta este día como si fuera el último... el futuro está sobrevalorado.
-
----
-
-el form de editar crea un nuevo registro. 
-
-problema con el post
-
-enviar el tipo de form con el submit 
-
-```
-if (isset($_POST['createForm'])) {
-```
-
-task: autocorrect y/n
-
----
-
-encontrar la aerolínea a actualizar y cambiarle los valores.
-
-```
-if ($aerolinea->getId() == $_POST['id']) {
-```
-
-comparamos el id del objeto con el id del POST
-
----
-
-clase para definiciones... getters y setters
-y 
-clase para CRUD
-
-## eliminar una aerolinea
+1. Crear un botón de eliminación para cada registro que al ser presionado pase el ID correspondiente como valor del parámetro `delete` en el query string de la URL.
 
 ```
 
