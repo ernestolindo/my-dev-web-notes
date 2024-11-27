@@ -1,4 +1,4 @@
-Yuleisy 
+Tu marca personal es tu identidad profesional, es decir, un activo que te hace destacar un tu campo.
 
 marca personal
 personificar tu marca
@@ -17,8 +17,8 @@ aplicaciones accesibles para todos!
 
 ## Componentes marca personal
 
-credibilidad - toma de decisiones correcta, resultados 
-reputacion - 
+credibilidad - toma de decisiones correcta, resultados positivos
+reputacion - lo que dice nuestro entorno
 
 se asumen cuando te postulas:
 habilidades tecnicas - 
