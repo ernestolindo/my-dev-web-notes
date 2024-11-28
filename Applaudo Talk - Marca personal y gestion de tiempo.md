@@ -13,7 +13,7 @@ Tu marca personal es tu identidad profesional, es decir, un activo que te hace d
 - Habilidades técnicas
 - Habilidades blandas
 
-## **Como empezar**
+## **Como empezar tu marca personal**
 
 ### *Autoconocimiento*
 
@@ -36,42 +36,24 @@ Valores de Ernesto Lindo:
 - Empatía
 - Resiliencia
 - Excelencia
+- Pasión
+### *Presencia digital*
 
-### presencia digital
+El primer y más esencial paso para mejorar la presencia digital de tu marca es crear un sitio web profesional y fácil de usar. Compartir actualizaciones de noticias sobre tu marca o mantener un blog regular donde proporciones contenido fresco y original relacionado con tu marca o industria puede ser efectivo para atraer consumidores a tu sitio.
 
-- donde
-- que mensajes
+El siguiente paso para construir una fuerte presencia en línea es centrarse en interactuar con los consumidores fuera de su sitio web. Una presencia activa y consistente en las redes sociales te permite mantenerte relevante para tu audiencia y conectarte a un nivel más personal.
 
-LinkeIn, Github
+### *Networking*
 
+El networking se refiere a la práctica de construir y mantener relaciones con otros profesionales en tu campo, lo cual es importante porque puede abrir nuevas oportunidades laborales, aumentar tu visibilidad, proporcionar consejos valiosos y fortalecer tu reputación profesional al crear una red de apoyo de contactos dentro de tu industria.
 
-### Networking
+## *Objetivos SMART de marca personal*
 
-- con quien
-- para quien
+- Specific
+- Measurable
+- Achievable
+- Relevant
+- Time-based
+## **Herramientas para gestion de tiempo**
 
-### Consistencia
-
-- que comunico
-- como lo comunico
-
-## Objetivo SMART de marca personal
-
-Specific
-Measurable
-Achievable
-Relevant
-Time-based
-
-## Unificar gestion de tiempo con marca personal
-
-Mejora tu reputacion y se puede convertir en una habilidad tecnica
-
-## Herramientas para gestion de tiemp
-- Calendario digital
-- Aplicacion de tareas
-- Aplicacion de notas
-
-Dividir tareas grandes en tareas pequeñas y asigna plazos de tiempo cortos
-
-Reflexion personal y ajuste de objetivos para el siguiente mes a final de mes - o lo puedes hacer al final de la semana
+Dividir tareas grandes en tareas pequeñas y asignar plazos de tiempo cortos. Cada semana, escribir una reflexión personal y ajuste de objetivos para el siguiente mes a final de mes - o lo puedes hacer al final de la semana
