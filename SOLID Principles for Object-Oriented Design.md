@@ -1,4 +1,4 @@
-# SOLID Principles for OPP - FSJ
+# SOLID Principles for Object-Oriented Design
 
 ## **Open Closed Principle**
 
@@ -17,18 +17,10 @@ Suppose you have a class `Shape` with a method `calculateArea()` that returns th
 
 ### *Key Techniques to Apply the Principle*
 
-#### 1. Use a Common Abstraction
-
-- Ensure that your superclass (or interface) defines **general behaviors** that all subclasses are expected to implement.
-#### 2. Avoid Overriding with Unexpected Behavior
-
-- Subclasses should not change the meaning of a method inherited from the superclass.
-#### 3. Avoid Tight Coupling
-
-- Do not hard-code logic that depends on specific subclasses.
-#### 4. Favor Composition Over Inheritance
-
-- Sometimes, **composition** (combining objects) is a better solution than inheritance.
+1. **Use a Common Abstraction**: Ensure that your superclass (or interface) defines **general behaviors** that all subclasses are expected to implement.
+2. **Avoid Overriding with Unexpected Behavior**: Subclasses should not change the meaning of a method inherited from the superclass.
+3. **Avoid Tight Coupling**: Do not hard-code logic that depends on specific subclasses.
+4. **Favor Composition Over Inheritance**: Sometimes, **[[composition]]** (combining objects) is a better solution than inheritance.
 ## Interface Segregation
 
 Subdividir interfaz muy general en interfaces mas especificas.

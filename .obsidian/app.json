@@ -1,5 +1,6 @@
 {
   "spellcheck": true,
   "useTab": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "promptDelete": false
 }
