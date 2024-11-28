@@ -23,7 +23,6 @@ Suppose you have a class `Shape` with a method `calculateArea()` that returns th
 #### 2. Avoid Overriding with Unexpected Behavior
 
 - Subclasses should not change the meaning of a method inherited from the superclass.
-
 #### 3. Avoid Tight Coupling
 
 - Do not hard-code logic that depends on specific subclasses.

@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Composition"
             }
+          },
+          {
+            "id": "858d3bbf34924451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOM Scripting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DOM Scripting"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,11 +229,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3103559350c4d425",
+  "active": "858d3bbf34924451",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "Composition.md",
     "SOLID Principles for OPP - FSJ.md",
+    "Composition.md",
+    "Untitled 2.md",
     "Untitled.md",
     "Borrador FSJ 26-11-24.md",
     "Applaudo Talk - Marca personal y gestion de tiempo.md",
