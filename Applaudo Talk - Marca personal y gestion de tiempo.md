@@ -1,18 +1,11 @@
-Tu marca personal es tu identidad profesional, es decir, un activo que te hace destacar un tu campo.
+# Applaudo Talk - Marca personal y gestion de tiempo
 
-marca personal
-personificar tu marca
-presencia digital
+Tu marca personal es tu identidad profesional, es decir, un activo que te hace destacar un tu campo. Tu marca personal debe tener personalidad y presencia digital. Algunos canales recomendados son blogs, newsletters y redes sociales. 
 
-blogs, newsletters, redes sociales
+¿Qué palabra describe mi esencia profesional? ==Empatía==
 
-identidad profesional - Tom peters 
-un bien personal que nos hace destacar
-
-que palabra describe mi esencia profesional: empatía
-
-superpoder en tecnología: 
-escribir codigo eficiente
+¿Cuál es mi superpoder en mi campo? (Factor distintivo) Delicadeza y innovación
+escribir código eficiente
 aplicaciones accesibles para todos!
 
 ## Componentes marca personal
