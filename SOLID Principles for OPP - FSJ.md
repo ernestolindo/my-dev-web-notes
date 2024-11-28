@@ -15,11 +15,21 @@ Suppose you have a class `Shape` with a method `calculateArea()` that returns th
 
 > "Objects of a superclass should be replaceable with objects of a subclass without altering the correctness of the program."
 
-Una clase padre debería poder ser reemplazada por sus clases hijas sin problemas en la ejecución.
+### *Key Techniques to Apply the Principle*
 
-Solucion 1: clase abstracta con metodo abstracto
-Solucion 2: interfaz
+#### 1. Use a Common Abstraction
 
+- Ensure that your superclass (or interface) defines **general behaviors** that all subclasses are expected to implement.
+#### 2. Avoid Overriding with Unexpected Behavior
+
+- Subclasses should not change the meaning of a method inherited from the superclass.
+
+#### 3. Avoid Tight Coupling
+
+- Do not hard-code logic that depends on specific subclasses.
+#### 4. Favor Composition Over Inheritance
+
+- Sometimes, **composition** (combining objects) is a better solution than inheritance.
 ## Interface Segregation
 
 Subdividir interfaz muy general en interfaces mas especificas.
