@@ -1,9 +1,6 @@
 ## Open Closed Principle
 
-Usar interfaces: contrato de implementación
-
-Clases abiertas a la extensión y cerradas a la modificación.
-
+> "Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification."
 ## Liskov Substitution Principle
 
 Una clase padre debería poder ser reemplazada por sus clases hijas sin problemas en la ejecución.
