@@ -54,6 +54,34 @@ El networking se refiere a la práctica de construir y mantener relaciones con o
 - Achievable
 - Relevant
 - Time-based
+
+Un ejemplo de un objetivo 'SMART' sería: 'Aumentar las ventas en un 15% dentro del próximo trimestre al contactar activamente a 20 nuevos clientes potenciales por semana a través de campañas de correo electrónico dirigidas.'
 ## **Herramientas para gestion de tiempo**
 
-Dividir tareas grandes en tareas pequeñas y asignar plazos de tiempo cortos. Cada semana, escribir una reflexión personal y ajuste de objetivos para el siguiente mes a final de mes - o lo puedes hacer al final de la semana
+### *Minitareas*
+
+Dividir tareas grandes en tareas pequeñas y asignar plazos de tiempo cortos. 
+
+### *Reflexión semanal*
+
+#### Personal reflection questions
+
+- What did I learn about myself this week? 
+- What did I enjoy doing this week? 
+- What am I proud of? 
+- What worries me most about the future? 
+- What am I scared of? 
+- What do I need to let go of? 
+- What matters most to me? 
+- What makes me feel at peace? 
+- What can I do to focus on my health and well-being? 
+#### Work reflection questions
+
+- What were my wins and progress areas? 
+- What were my blockers? 
+- What questions do I have about my role, company, or industry? 
+- What did I learn from any failures? 
+- What conversations did I have? 
+- How did I support others? 
+- What skills did I work on? 
+- What additional responsibilities did I take on?
