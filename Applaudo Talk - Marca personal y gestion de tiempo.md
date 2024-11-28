@@ -15,26 +15,27 @@ Tu marca personal es tu identidad profesional, es decir, un activo que te hace d
 
 ## **Como empezar**
 
-### *Autoconocerte*
+### *Autoconocimiento*
 
-¡Recuerda que cambias constantemente!
+Ernesto Lindo es:
+1. Distinguido
+2. Empático
+3. Ambicioso
 
-Tres adjetivos que describan tu marca personal
-1. Delicadeza
-2. Ética
-3. elegante
+### *Visión
 
+La visión es una declaración de lo que queremos ser a largo plazo. Responde a las preguntas "¿A dónde?" y "¿Por qué?".
 
-visión
+### *Valores*
 
+Son los principios fundamentales que guían tus acciones, decisiones y cómo te presentas ante los demás. Representan lo que es importante para ti y definen la esencia de quién eres y cómo deseas ser percibido.
 
-por qué y a dónde
-declaración de lo que queremos ser a largo plazo
-
-### valores
-
-cómo 
-qué nos importa
+Valores de Ernesto Lindo:
+- Justicia
+- Servicio
+- Empatía
+- Resiliencia
+- Excelencia
 
 ### presencia digital
 
