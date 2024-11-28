@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borrador FSJ 27-11-24.md",
+                "file": "SOLID Principles for OPP - FSJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borrador FSJ 27-11-24"
+              "title": "SOLID Principles for OPP - FSJ"
             }
           }
         ],
@@ -203,8 +203,9 @@
   },
   "active": "6f389bff400dfd30",
   "lastOpenFiles": [
+    "Untitled.md",
+    "SOLID Principles for OPP - FSJ.md",
     "Borrador FSJ 26-11-24.md",
-    "Borrador FSJ 27-11-24.md",
     "Applaudo Talk - Marca personal y gestion de tiempo.md",
     "Creational patterns.md",
     "Actualizar y eliminar una aerolínea - FSJ.md",
