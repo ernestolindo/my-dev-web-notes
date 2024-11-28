@@ -2,4 +2,6 @@
 
 Usar interfaces: contrato de implementación
 
-## Liskov Principle
+## Liskov Substitution Principle
+
+Una clase padre debería poder ser reemplazada por sus clases hijas sin problemas en la ejecucion
