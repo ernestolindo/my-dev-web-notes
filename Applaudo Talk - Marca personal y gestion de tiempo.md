@@ -2,29 +2,27 @@
 
 Tu marca personal es tu identidad profesional, es decir, un activo que te hace destacar un tu campo. Tu marca personal debe tener personalidad y presencia digital. Algunos canales recomendados son blogs, newsletters y redes sociales. 
 
-¿Qué palabra describe mi esencia profesional? ==Empatía==
+¿Qué palabra describe tu esencia profesional? ==Empatía==
 
-¿Cuál es mi superpoder en mi campo? (Factor distintivo) Delicadeza y innovación
-escribir código eficiente
-aplicaciones accesibles para todos!
+¿Cuál es tu superpoder en tu campo? (Factor distintivo) ==La delicadeza==
 
-## Componentes marca personal
+## **Componentes de tu marca personal**
 
-credibilidad - toma de decisiones correcta, resultados positivos
-reputacion - lo que dice nuestro entorno
+- Credibilidad: confiabilidad en el producto presente
+- Reputación: Confiabilidad a través del tiempo
+- Habilidades técnicas
+- Habilidades blandas
 
-se asumen cuando te postulas:
-habilidades tecnicas - 
-habilidades blandas
+## **Como empezar**
 
-## Como empezar
+### *Autoconocerte*
 
-autoconocerse - cambia constantemente
+¡Recuerda que cambias constantemente!
 
-3 adjetivos para describirme 
-- ético
-- resiliente
-- elegante
+Tres adjetivos que describan tu marca personal
+1. Delicadeza
+2. Ética
+3. elegante
 
 
 visión
