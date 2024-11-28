@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,8 +229,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "858d3bbf34924451",
+  "active": "3103559350c4d425",
   "lastOpenFiles": [
+    "DOM Scripting.md",
     "SOLID Principles for OPP - FSJ.md",
     "Composition.md",
     "Untitled 2.md",
@@ -239,7 +240,6 @@
     "Applaudo Talk - Marca personal y gestion de tiempo.md",
     "Creational patterns.md",
     "Actualizar y eliminar una aerolínea - FSJ.md",
-    "DOM Scripting.md",
     "desktop.ini",
     "Programación orientada a objetos y UML.md",
     "HTML Test.md",
