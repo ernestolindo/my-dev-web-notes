@@ -1,5 +1,7 @@
 # SOLID Principles for Object-Oriented Design
 
+## **Single-Responsibility Principle**
+
 ## **Open Closed Principle**
 
 > "Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification."
@@ -21,6 +23,6 @@ Suppose you have a class `Shape` with a method `calculateArea()` that returns th
 2. **Avoid Overriding with Unexpected Behavior**: Subclasses should not change the meaning of a method inherited from the superclass.
 3. **Avoid Tight Coupling**: Do not hard-code logic that depends on specific subclasses.
 4. **Favor Composition Over Inheritance**: Sometimes, **[[composition]]** (combining objects) is a better solution than inheritance.
-## Interface Segregation
+## **Interface Segregation**
 
-Subdividir interfaz muy general en interfaces mas especificas.
+## **Dependency Inversion Principle**
