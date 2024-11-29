@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID Principles for Object-Oriented Design.md",
+                "file": "Actualizar y eliminar una aerolínea - FSJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID Principles for Object-Oriented Design"
+              "title": "Actualizar y eliminar una aerolínea - FSJ"
             }
           }
         ]
@@ -175,6 +175,7 @@
   "active": "7372a458d1899bab",
   "lastOpenFiles": [
     "Programación orientada a objetos y UML.md",
+    "SOLID Principles for Object-Oriented Design.md",
     "JavaScript Essentials - DWC (Beaufitied).md",
     "JavaScript Essentials - Desarrollo Web Completo.md",
     "Actualizar y eliminar una aerolínea - FSJ.md",
@@ -184,7 +185,6 @@
     "Testing/Obsidian.md",
     "HTML Test.md",
     "Testing",
-    "SOLID Principles for Object-Oriented Design.md",
     "Untitled.md",
     "Composition.md",
     "DOM Scripting.md",
