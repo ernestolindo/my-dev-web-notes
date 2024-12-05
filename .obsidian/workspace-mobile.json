@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eri's RP.md",
+                "file": "Estructuración del borrador.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eri's RP"
+              "title": "Estructuración del borrador"
             }
           }
         ]
@@ -156,8 +156,9 @@
   },
   "active": "c3023b924b177698",
   "lastOpenFiles": [
-    "My new note.md",
     "Eri's RP.md",
+    "Estructuración del borrador.md",
+    "My new note.md",
     "Software Development Life Cycle.md",
     "FSJ 02-12-24.md",
     "/Software Development Life Cycle.md",
