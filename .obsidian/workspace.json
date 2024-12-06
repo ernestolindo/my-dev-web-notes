@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "SOLID Principles for Object-Oriented Design"
             }
+          },
+          {
+            "id": "b24a5667b4538ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High-level modules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "High-level modules"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0412c9146d61bbc",
+  "active": "b24a5667b4538ee0",
   "lastOpenFiles": [
+    "SOLID Principles for Object-Oriented Design.md",
+    "High-level modules.md",
     "My new note.md",
     "FSJ 02-12-24.md",
     "Eri's RP.md",
@@ -181,7 +198,6 @@
     "Software Development Life Cycle.md",
     "Actualizar y eliminar una aerolínea - FSJ.md",
     "Programación orientada a objetos y UML.md",
-    "SOLID Principles for Object-Oriented Design.md",
     "JavaScript Essentials - DWC (Beaufitied).md",
     "JavaScript Essentials - Desarrollo Web Completo.md",
     "Blog De Cafe - Performance y Metadata.md",
