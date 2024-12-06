@@ -7,7 +7,12 @@
 By splitting responsibilities into separate, dedicated classes, you achieve **modularity** and **scalability** in your design.
 ### *Key Techniques to Apply the Principle*
 
-
+1. **Define clear responsibilities**: Identify the primary purpose of a class.
+2. **Split classes**: Extract responsibilities into new, dedicated classes.
+3. **Use interfaces**:	Represent specific roles or behaviors to enforce SRP.
+4. **Delegate responsibilities**: Assign tasks to helper or dependency classes via composition.
+5. **Follow "one reason to change"**: Ensure a class changes only for its defined responsibility.
+Keep methods focused
 ## **Open Closed Principle**
 
 > "Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification."
@@ -30,5 +35,8 @@ Suppose you have a class `Shape` with a method `calculateArea()` that returns th
 3. **Avoid Tight Coupling**: Do not hard-code logic that depends on specific subclasses.
 4. **Favor Composition Over Inheritance**: Sometimes, **[[composition]]** (combining objects) is a better solution than inheritance.
 ## **Interface Segregation**
+
+> "A class should not be forced to implement interfaces it does not use."
+
 
 ## **Dependency Inversion Principle**
