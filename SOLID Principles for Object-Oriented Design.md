@@ -38,5 +38,10 @@ Suppose you have a class `Shape` with a method `calculateArea()` that returns th
 
 > "A class should not be forced to implement interfaces it does not use."
 
+This principle emphasizes that interfaces should be small and focused on specific behaviors, ensuring that implementing classes only provide methods that are relevant to their roles.
+### *Key Techniques to Apply the Principle*
 
+1. **Avoid Fat Interfaces**: Large interfaces with many unrelated methods force classes to implement methods they do not need, leading to unnecessary code and violations of ISP.
+2. **Split Interfaces**: Break large, general-purpose interfaces into smaller, more specific ones, each representing a distinct responsibility.
+3. **Keep Implementations Relevant**: Classes implementing an interface should only be required to provide functionality they actually use.
 ## **Dependency Inversion Principle**
