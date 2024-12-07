@@ -1,3 +1,1 @@
-*Zat's heart skips a bit when her Eri's fingers brushed his lips* "Oh... Really? Sorry, how careless I am" 
-
-*He looks at Eri as she opens his gift, waiting for her verdict* "Oh... Do you like it? I bought it for you because I thought it would make you look even more beautiful"  
+*Zat smiles up at her, delighted with her invitation to dance. He stands up and places his hand on her arm, stroking along smoothly* "I'd love to dance with you"  

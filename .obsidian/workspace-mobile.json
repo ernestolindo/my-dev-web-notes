@@ -29,7 +29,7 @@
               "state": {
                 "file": "Eri's RP.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Eri's RP"
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +183,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1742a0f97aa849c6",
+  "active": "9135bf0bf0bc1075",
   "lastOpenFiles": [
+    "SOLID Principles for Object-Oriented Design.md",
     "Eri's RP.md",
     "Discurso de un graduando INAC 2024 - Estructura.md",
     "La fórmula para ser millonario.md",
@@ -210,7 +211,6 @@
     "Testing/Obsidian.md",
     "Testing/Law of Inertia.md",
     "Testing/Isaac Newton.md",
-    "SOLID Principles for Object-Oriented Design.md",
     "Testing"
   ]
 }
