@@ -59,8 +59,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,11 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b24a5667b4538ee0",
+  "active": "f0412c9146d61bbc",
   "lastOpenFiles": [
+    "High-level modules.md",
     "Business logic.md",
     "Business domain.md",
-    "High-level modules.md",
     "SOLID Principles for Object-Oriented Design.md",
     "My new note.md",
     "FSJ 02-12-24.md",
