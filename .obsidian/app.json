@@ -2,5 +2,6 @@
   "spellcheck": true,
   "useTab": true,
   "showIndentGuide": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
