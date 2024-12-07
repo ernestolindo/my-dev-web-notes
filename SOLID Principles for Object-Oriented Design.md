@@ -46,5 +46,5 @@ This principle emphasizes that interfaces should be small and focused on specifi
 3. **Keep Implementations Relevant**: Classes implementing an interface should only be required to provide functionality they actually use.
 ## **Dependency Inversion Principle**
 
-> [[High-level modules]] should not depend on low-level modules. Both should depend on abstractions.
+> [[High-level modules]] should not depend on [[Low-level modules]]. Both should depend on abstractions.
 
