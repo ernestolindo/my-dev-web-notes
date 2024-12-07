@@ -240,12 +240,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faec595d13946717",
+  "active": "c6f5873852e7c505",
   "lastOpenFiles": [
     "High-level module.md",
     "SOLID Principles for Object-Oriented Design.md",
