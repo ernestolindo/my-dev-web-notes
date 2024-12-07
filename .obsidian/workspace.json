@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID Principles for Object-Oriented Design.md",
+                "file": "High-level module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID Principles for Object-Oriented Design"
+              "title": "High-level module"
             }
           },
           {
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOLID Principles for Object-Oriented Design.md",
+                "file": "High-level module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SOLID Principles for Object-Oriented Design"
+              "title": "Backlinks for High-level module"
             }
           },
           {
@@ -196,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOLID Principles for Object-Oriented Design.md",
+                "file": "High-level module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SOLID Principles for Object-Oriented Design"
+              "title": "Outgoing links from High-level module"
             }
           },
           {
@@ -223,10 +223,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOLID Principles for Object-Oriented Design.md"
+                "file": "High-level module.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SOLID Principles for Object-Oriented Design"
+              "title": "Outline of High-level module"
             }
           },
           {
@@ -244,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,13 +260,13 @@
   },
   "active": "faec595d13946717",
   "lastOpenFiles": [
+    "SOLID Principles for Object-Oriented Design.md",
+    "Low-level module.md",
     "Module.md",
     "High-level module.md",
-    "Low-level module.md",
     "Business logic.md",
     "Business domain.md",
     "Composition.md",
-    "SOLID Principles for Object-Oriented Design.md",
     "My new note.md",
     "FSJ 02-12-24.md",
     "Eri's RP.md",
