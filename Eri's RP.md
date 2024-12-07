@@ -1,5 +1,3 @@
-"I won't ask you about your wish because if I do it won't come true" *Zat grins* 
+*Zat's heart skips a bit when her Eri's fingers brushed his lips* "Oh... Really? Sorry, how careless I am" 
 
-"By the way, the cake was delicious" *When he finishes his jaw is smeared with some of the cake.*
-
-"Nice party! The best I've ever been to" *Zat doesn't seem to be being sarcastic, he is telling the truth*
+*He looks at Eri as she opens his gift, waiting for her verdict* "Oh... Do you like it? I bought it for you because I thought it would make you look even more beautiful"  
