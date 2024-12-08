@@ -20,8 +20,8 @@ Zat's eyes widen at her invitation. He didn't except that, being in a girl's apa
 
 ---
 
-*As Eri takes a step back, Zat also feels a sense of loss.
+*As Eri takes a step back, Zat also feels a sense of loss.*
 
-“Oh… yeah… yeah… I have school tomorrow too.” Zat scratches the back of his neck nervously.
+“Oh… yeah… yeah… I have school tomorrow too.” *Zat scratches the back of his neck nervously.*
 
-Zat’s eyes widen at her invitation. He didn’t expect to be in a girl’s apartment for so long. “Um… Well…” Zat fiddles with his tie as he speaks, “I… I’d like to… I like movies!… I guess I’ll have to let my parents know I’ll be home late.”
+*Zat’s eyes widen at her invitation. He didn’t expect to be in a girl’s apartment for so long.* “Um… Well…” *Zat fiddles with his tie as he speaks,* “I… I’d like to… I like movies!… I guess I’ll have to let my parents know I’ll be home late.”
