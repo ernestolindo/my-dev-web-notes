@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discurso de un graduando INAC 2024 - Estructura.md",
+                "file": "Eri's RP.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Discurso de un graduando INAC 2024 - Estructura"
+              "title": "Eri's RP"
             }
           },
           {
@@ -185,9 +185,9 @@
   },
   "active": "9135bf0bf0bc1075",
   "lastOpenFiles": [
+    "Discurso de un graduando INAC 2024 - Estructura.md",
     "Eri's RP.md",
     "SOLID Principles for Object-Oriented Design.md",
-    "Discurso de un graduando INAC 2024 - Estructura.md",
     "La fórmula para ser millonario.md",
     "Low-level module.md",
     "High-level module.md",
