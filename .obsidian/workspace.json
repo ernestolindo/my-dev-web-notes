@@ -240,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -257,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6f5873852e7c505",
+  "active": "d66fdab2f952c2d5",
   "lastOpenFiles": [
     "High-level module.md",
     "SOLID Principles for Object-Oriented Design.md",
