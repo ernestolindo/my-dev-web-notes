@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DWC 2024-12-10.md",
+                "file": "Code Refactoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DWC 2024-12-10"
+              "title": "Code Refactoring"
+            }
+          },
+          {
+            "id": "eebe737be2b4a86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SASS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SASS"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DWC 2024-12-10.md"
+                "file": "SASS.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DWC 2024-12-10"
+              "title": "Outline of SASS"
             }
           },
           {
@@ -188,10 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "324defe6741738c6",
+  "active": "eebe737be2b4a86e",
   "lastOpenFiles": [
+    "Code Refactoring.md",
+    "SASS.md",
     "2024-12-10.md",
-    "DWC 2024-12-10.md",
     "Discurso de un graduando INAC 2024 - Estructura.md",
     "SOLID Principles for Object-Oriented Design.md",
     "High-level module.md",
@@ -216,7 +231,6 @@
     "HTML Test.md",
     "Testing",
     "DOM Scripting.md",
-    "Untitled 2.md",
     "desktop.ini"
   ]
 }
