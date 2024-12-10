@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "SASS"
             }
+          },
+          {
+            "id": "be2e9173e3d30a0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preprocessor Scripting Language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preprocessor Scripting Language"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOLID Principles for Object-Oriented Design.md",
+                "file": "Preprocessor Scripting Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SOLID Principles for Object-Oriented Design"
+              "title": "Backlinks for Preprocessor Scripting Language"
             }
           },
           {
@@ -141,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOLID Principles for Object-Oriented Design.md",
+                "file": "Preprocessor Scripting Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SOLID Principles for Object-Oriented Design"
+              "title": "Outgoing links from Preprocessor Scripting Language"
             }
           },
           {
@@ -168,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SASS.md"
+                "file": "Preprocessor Scripting Language.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SASS"
+              "title": "Outline of Preprocessor Scripting Language"
             }
           },
           {
@@ -184,8 +198,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,10 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eebe737be2b4a86e",
+  "active": "be2e9173e3d30a0f",
   "lastOpenFiles": [
-    "Code Refactoring.md",
     "SASS.md",
+    "Preprocessor Scripting Language.md",
+    "Code Refactoring.md",
     "2024-12-10.md",
     "Discurso de un graduando INAC 2024 - Estructura.md",
     "SOLID Principles for Object-Oriented Design.md",
@@ -230,7 +244,6 @@
     "Testing/Obsidian.md",
     "HTML Test.md",
     "Testing",
-    "DOM Scripting.md",
     "desktop.ini"
   ]
 }

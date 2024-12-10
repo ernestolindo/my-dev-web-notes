@@ -6,3 +6,5 @@ Ventajas:
 - Reusabilidad
 - Modularización
 - Mejor lectura
+
+**SASS** (Syntactically Awesome Stylesheets) is a [[Preprocessor Scripting Language]] that extends CSS. It allows developers to write more maintainable and reusable styles.
