@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preprocessor Scripting Language.md",
+                "file": "SASS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Preprocessor Scripting Language"
+              "title": "Backlinks for SASS"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preprocessor Scripting Language.md",
+                "file": "SASS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Preprocessor Scripting Language"
+              "title": "Outgoing links from SASS"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preprocessor Scripting Language.md"
+                "file": "SASS.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Preprocessor Scripting Language"
+              "title": "Outline of SASS"
             }
           },
           {
@@ -215,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be2e9173e3d30a0f",
+  "active": "eebe737be2b4a86e",
   "lastOpenFiles": [
-    "SASS.md",
     "Preprocessor Scripting Language.md",
+    "SASS.md",
     "Code Refactoring.md",
     "2024-12-10.md",
     "Discurso de un graduando INAC 2024 - Estructura.md",
