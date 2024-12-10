@@ -4,104 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "44b66aa84661c628",
+        "id": "465b65303e5038d0",
         "type": "tabs",
         "children": [
           {
-            "id": "faec595d13946717",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "edeed84ca1d9709e",
+            "id": "188ca73fd145d4dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business domain.md",
+                "file": "2024-12-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business domain"
+              "title": "2024-12-10"
             }
           },
           {
-            "id": "857eb0fb10545321",
+            "id": "324defe6741738c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business logic.md",
+                "file": "DWC 2024-12-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business logic"
-            }
-          },
-          {
-            "id": "0d275db99dc003b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "High-level module.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "High-level module"
-            }
-          },
-          {
-            "id": "a99b3acf727b02d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Low-level module.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Low-level module"
-            }
-          },
-          {
-            "id": "ee4ca63d2b8121cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Module"
-            }
-          },
-          {
-            "id": "b24a5667b4538ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business logic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Business logic"
+              "title": "DWC 2024-12-10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOLID Principles for Object-Oriented Design.md"
+                "file": "DWC 2024-12-10.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SOLID Principles for Object-Oriented Design"
+              "title": "Outline of DWC 2024-12-10"
             }
           },
           {
@@ -236,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -253,8 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faec595d13946717",
+  "active": "324defe6741738c6",
   "lastOpenFiles": [
+    "2024-12-10.md",
+    "DWC 2024-12-10.md",
     "Discurso de un graduando INAC 2024 - Estructura.md",
     "SOLID Principles for Object-Oriented Design.md",
     "High-level module.md",
@@ -280,8 +217,6 @@
     "Testing",
     "DOM Scripting.md",
     "Untitled 2.md",
-    "Applaudo Talk - Marca personal y gestion de tiempo.md",
-    "desktop.ini",
-    "Testing/Law of Inertia.md"
+    "desktop.ini"
   ]
 }
