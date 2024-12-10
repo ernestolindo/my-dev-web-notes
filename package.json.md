@@ -1,6 +1,6 @@
 # **package.json**
 
-The **`package.json`** file is a special file in a Node.js project that contains important information about the project, such as its name, version, and the list of libraries or [[packages]] (called **dependencies**) that the project needs to run. It also includes scripts to automate tasks, like starting the project or running tests.
+The **`package.json`** file is a special file in a Node.js project that contains important information about the project, such as its name, version, and the list of libraries or [[Packages]] (called **dependencies**) that the project needs to run. It also includes scripts to automate tasks, like starting the project or running tests.
 
 In simple terms, the **`package.json`** file helps manage the project's setup and keeps track of what tools and packages are needed to make the project work.
 
