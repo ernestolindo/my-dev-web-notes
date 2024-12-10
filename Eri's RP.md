@@ -1,13 +1,17 @@
-Zat could tell how tired Eri was. Her kindness made his heart melt. 
+Zat arrives home and goes up to his bedroom. He slumps on his bed and thinks about Eri with an smile on his lips. "She is amazing..." He says to himself
 
-"You're welcome Eri.... You are very nice to me... I don't know if I deserve that... But thank you very much" Zat smiles back at Eri, his expression showing his bare feelings for her
+The next day at school.
 
-Zat steps out of her apartment. "See you tomorrow ma'am, sleep tightly!" He leans over as a farewell.
+Zat is on class but his mind is distracted. He can't wait for his meeting with Eri at lunch.
+
+When the bell rings Zat runs out of the classroom and goes to Eri's classroom. He waits for her sitting on a bench.
 
 ---
 
-*Zat could see how tired Eri was. Her kindness melted his heart.*
+*Zat arrives home and goes up to his bedroom. He collapses on his bed and thinks about Eri with a smile on his lips.* "She's amazing..." *He says to himself.*
 
-"You're welcome Eri... You are very kind to me... I don't know if I deserve it... But thank you very much," *Zat gives her an smile, his expression sweet*
+*The next day at school.*
 
-*Zat steps out of her apartment.* "See you tomorrow ma'am, sleep well!" *He leans over in farewell.*
+*Zat is in class, but his mind is distracted. He can't wait to meet Eri for lunch.*
+
+*When the bell rings, Zat runs out of the classroom and goes to Eri's classroom. He waits for her on a bench outside.*

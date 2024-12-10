@@ -35,8 +35,7 @@
               "title": "Discurso de un graduando INAC 2024 - Estructura"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,11 +168,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bfbc04270378fb1",
+  "active": "879c768137a348d3",
   "lastOpenFiles": [
+    "Discurso de un graduando INAC 2024 - Estructura.md",
     "Eri's RP.md",
     "Applaudo Talk - Marca personal y gestion de tiempo.md",
-    "Discurso de un graduando INAC 2024 - Estructura.md",
     "SOLID Principles for Object-Oriented Design.md",
     "La fórmula para ser millonario.md",
     "Low-level module.md",
