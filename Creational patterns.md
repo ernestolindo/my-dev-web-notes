@@ -1,4 +1,4 @@
-# Creational patterns
+# **Creational Patterns**
 
 ## **Singleton Pattern**
 
@@ -22,3 +22,6 @@ The **Singleton Pattern** is a **creational design pattern** that ensures a clas
 1. **Private Constructor**: Prevents external instantiation.
 2. **Static `getInstance()` Method**: Returns the **single instance** and creates it only if it doesn’t already exist.
 3. **Static Variable**: Stores the unique instance.
+
+## **Factory Method Pattern**
+
