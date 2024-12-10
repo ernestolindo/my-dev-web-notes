@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "78f8c09cf056197d",
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "package-lock.json.md",
+                "file": "SASS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -120,7 +120,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of package-lock.json"
+              "title": "Graph of SASS"
             }
           }
         ]
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "package-lock.json.md",
+                "file": "SASS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for package-lock.json"
+              "title": "Backlinks for SASS"
             }
           },
           {
@@ -214,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "package-lock.json.md",
+                "file": "SASS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from package-lock.json"
+              "title": "Outgoing links from SASS"
             }
           },
           {
@@ -241,10 +241,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "package-lock.json.md"
+                "file": "SASS.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of package-lock.json"
+              "title": "Outline of SASS"
             }
           },
           {
@@ -276,15 +276,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8646a571e6dae5df",
+  "active": "eebe737be2b4a86e",
   "lastOpenFiles": [
-    "Packages.md",
+    "Preprocessor Scripting Language.md",
     "package-lock.json.md",
+    "Packages.md",
     "package.json.md",
     "Node Package Manager.md",
     "Node.js.md",
     "SASS.md",
-    "Preprocessor Scripting Language.md",
     "Code Refactoring.md",
     "2024-12-10.md",
     "Discurso de un graduando INAC 2024 - Estructura.md",
