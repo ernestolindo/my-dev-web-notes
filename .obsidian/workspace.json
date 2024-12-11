@@ -6,7 +6,6 @@
       {
         "id": "1258e1b750aa1780",
         "type": "tabs",
-        "dimension": 67.8082191780822,
         "children": [
           {
             "id": "63175317bb2f32fa",
@@ -52,50 +51,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "cf5959cec0ce6e29",
-        "type": "tabs",
-        "dimension": 32.19178082191781,
-        "children": [
-          {
-            "id": "1f42e89239094b3b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Creational patterns.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Creational patterns"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -235,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

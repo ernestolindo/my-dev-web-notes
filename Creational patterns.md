@@ -26,8 +26,52 @@ The **Singleton Pattern** is a **creational design pattern** that ensures a clas
 ### *Basic PHP Implementation*
 
 ```
+<?php
+class Singleton {
+    // Holds the single instance of the class
+    private static ?Singleton $instance = null;
 
+    // Private constructor to prevent direct instantiation
+    private function __construct() {}
+
+    // Static method to get the single instance of the class
+    public static function getInstance(): Singleton {
+        if (self::$instance === null) {
+            self::$instance = new Singleton();
+        }
+        return self::$instance;
+    }
+
+    // Example method
+    public function doSomething(): void {
+        echo "Singleton instance is working!";
+    }
+}
+
+// Usage
+$singleton = Singleton::getInstance();
+$singleton->doSomething();
 ```
 
 ## **Factory Method Pattern**
+
+### *Definition*
+
+The Factory Method Pattern is a creational design pattern that defines an interface or abstract class for creating an object, but allows subclasses to alter the type of objects that will be created.
+
+The main idea is to delegate the instantiation of objects to subclasses, making the code more flexible and reusable.
+### *Key Characteristics*
+
+- **Product Interface/Abstract Class**: Defines the interface for the objects created by the factory.
+- **Concrete Products**: Implement the product interface.
+- **Creator (Factory)**: Declares the factory method that returns objects of the product type.
+- **Concrete Creators**: Override the factory method to specify the concrete product to instantiate.
+### *When to use*
+
+
+### *Basic PHP Implementation*
+
+
+
+
 
