@@ -62,10 +62,9 @@ The Factory Method Pattern is a creational design pattern that defines an interf
 The main idea is to delegate the instantiation of objects to subclasses, making the code more flexible and reusable.
 ### *Key Characteristics*
 
-- **Product Interface/Abstract Class**: Defines the interface for the objects created by the factory.
-- **Concrete Products**: Implement the product interface.
-- **Creator (Factory)**: Declares the factory method that returns objects of the product type.
-- **Concrete Creators**: Override the factory method to specify the concrete product to instantiate.
+- **Encapsulation of Object Creation**: The pattern encapsulates the instantiation logic, making the code more flexible and easier to maintain.
+- **Polymorphism**: It relies on subclasses to define the exact type of object to create, promoting flexibility and scalability.
+- **Abstract Products**: The base class defines an abstract method (factory method) to be implemented by subclasses, which create specific products.
 ### *When to use*
 
 Direct instantiation is fine for **simple cases** with few object types and little growth. However, as your application grows, the **Factory Method** becomes invaluable for **flexibility**, **maintainability**, and adhering to **good design principles**.
@@ -77,6 +76,17 @@ Direct instantiation is fine for **simple cases** with few object types and litt
 | **Coupling**         | Tightly coupled to concrete classes     | Decoupled using abstractions        |
 | **Scalability**      | Becomes harder with more types          | Easily scales with new types        |
 | **Reusability**      | Logic tied to specific context          | Reusable factory logic              |
+### *How to Implement*
+
+1. **Creator Class**:
+    - Defines the factory method as an abstract method or virtual function.
+    - May also include some default behavior for object management.
+2. **Concrete Creator**:
+    - Implements the factory method to create specific product instances.
+3. **Product Interface**:
+    - Declares common operations that all product types support.
+4. **Concrete Product**:
+    - Implements the product interface.
 ### *Basic PHP Implementation*
 
 ```
