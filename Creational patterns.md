@@ -23,5 +23,11 @@ The **Singleton Pattern** is a **creational design pattern** that ensures a clas
 2. **Static `getInstance()` Method**: Returns the **single instance** and creates it only if it doesn’t already exist.
 3. **Static Variable**: Stores the unique instance.
 
+### *Basic PHP Implementation*
+
+```
+
+```
+
 ## **Factory Method Pattern**
 
