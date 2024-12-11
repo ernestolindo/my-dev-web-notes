@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creational patterns.md",
+                "file": "2024-12-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creational patterns"
+              "title": "2024-12-11"
             }
           },
           {
@@ -49,7 +49,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Creational patterns.md",
+                "file": "2024-12-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Creational patterns"
+              "title": "Graph of 2024-12-11"
             }
           }
         ]
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creational patterns.md",
+                "file": "2024-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Creational patterns"
+              "title": "Outgoing links from 2024-12-11"
             }
           },
           {
@@ -198,10 +198,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creational patterns.md"
+                "file": "2024-12-11.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Creational patterns"
+              "title": "Outline of 2024-12-11"
             }
           },
           {
@@ -235,9 +235,10 @@
   },
   "active": "63175317bb2f32fa",
   "lastOpenFiles": [
+    "Creational patterns.md",
+    "2024-12-11.md",
     "desktop.ini",
     "2024-12-10.md",
-    "Creational patterns.md",
     "SASS.md",
     "Preprocessor Scripting Language.md",
     "package-lock.json.md",
