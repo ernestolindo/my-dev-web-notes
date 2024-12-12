@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción a las bases de datos.md",
+                "file": "Introducción a las bases de datos - FSJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción a las bases de datos"
+              "title": "Introducción a las bases de datos - FSJ"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introducción a las bases de datos.md"
+                "file": "Introducción a las bases de datos - FSJ.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Introducción a las bases de datos"
+              "title": "Outline of Introducción a las bases de datos - FSJ"
             }
           },
           {
@@ -220,7 +220,7 @@
   "active": "81122b6cc5acb204",
   "lastOpenFiles": [
     "2024-12-11.md",
-    "Introducción a las bases de datos.md",
+    "Introducción a las bases de datos - FSJ.md",
     "Creational patterns.md",
     "desktop.ini",
     "2024-12-10.md",
