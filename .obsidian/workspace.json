@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4dca80a5cf03eb0c",
+        "id": "9439c5dd157a3d08",
         "type": "tabs",
         "children": [
           {
-            "id": "2179d2f17e2ba7a0",
+            "id": "9213479575629ed5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Object-Oriented Programming/SOLID Principles for Object-Oriented Design.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SOLID Principles for Object-Oriented Design"
+              "title": "New tab"
             }
           }
         ]
@@ -139,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object-Oriented Programming/SOLID Principles for Object-Oriented Design.md"
+                "file": "Object-Oriented Programming/Programación orientada a objetos y UML.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SOLID Principles for Object-Oriented Design"
+              "title": "Outline of Programación orientada a objetos y UML"
             }
           },
           {
@@ -176,6 +172,9 @@
   },
   "active": "c7fea1d1d04fade8",
   "lastOpenFiles": [
+    "Preprocessor Scripting Language.md",
+    "Introducción a las bases de datos.md",
+    "Object-Oriented Programming/SOLID Principles for Object-Oriented Design.md",
     "NodeJS/Packages.md",
     "Software Development Life Cycle.md",
     "Object-Oriented Programming/Module.md",
@@ -187,7 +186,6 @@
     "Object-Oriented Programming/Creational patterns.md",
     "Object-Oriented Programming/Low-level module.md",
     "Object-Oriented Programming",
-    "Introducción a las bases de datos.md",
     "Improving Web Performance.md",
     "JavaScript/JavaScript Essentials.md",
     "JavaScript",
@@ -196,13 +194,11 @@
     "desktop.ini",
     "2024-12-10.md",
     "SASS.md",
-    "Preprocessor Scripting Language.md",
     "NodeJS/package-lock.json.md",
     "NodeJS/package.json.md",
     "NodeJS/Node Package Manager.md",
     "NodeJS/Node.js.md",
     "Discurso de un graduando INAC 2024 - Estructura.md",
-    "Object-Oriented Programming/SOLID Principles for Object-Oriented Design.md",
     "Object-Oriented Programming/High-level module.md",
     "Object-Oriented Programming/Composition.md",
     "My new note.md",
