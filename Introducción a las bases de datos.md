@@ -1,4 +1,4 @@
-# **Introducción a las bases de datos - FSJ**
+# **Introducción a las bases de datos
 
 El frontend no puede almacenar la información, de eso se encarga el backend. La función de las bases de datos es permitirnos almacenar datos de forma persistente. La normalización son las buenas prácticas para una base de datos cuyo objetivo es eliminar datos redundantes.
 
