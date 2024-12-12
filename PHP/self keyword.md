@@ -1,4 +1,4 @@
-# **self keyword in PHP**
+# **self keyword**
 
 In PHP, **`self`** is a keyword used within a class to refer to the **current class** where it is defined. It is typically used to access:
 

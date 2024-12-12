@@ -50,3 +50,59 @@ The **Decorator Pattern** is a structural design pattern that allows behavior to
     - Extend the decorator class to add specific behaviors.
 
 ## **Basic PHP Implementation**
+
+```
+<?php 
+
+// Component interface
+interface TextProcessor {
+    public function process(string $text): string;
+}
+
+// Concrete component
+class PlainText implements TextProcessor {
+    public function process(string $text): string {
+        return $text; // Returns the plain text
+    }
+}
+
+// Decorator class
+abstract class TextDecorator implements TextProcessor {
+    protected TextProcessor $textProcessor;
+
+    public function __construct(TextProcessor $textProcessor) {
+        $this->textProcessor = $textProcessor;
+    }
+
+    public function process(string $text): string {
+        return $this->textProcessor->process($text);
+    }
+}
+
+// Concrete decorators
+
+class UppercaseDecorator extends TextDecorator {
+    public function process(string $text): string {
+        return strtoupper(parent::process($text));
+    }
+}
+
+class HTMLEscapeDecorator extends TextDecorator {
+    public function process(string $text): string {
+        return htmlspecialchars(parent::process($text));
+    }
+}
+
+// Using the decorator pattern
+
+<?php
+
+$plainText = new PlainText();
+$uppercaseText = new UppercaseDecorator($plainText);
+$safeText = new HTMLEscapeDecorator($uppercaseText);
+$input = "<h1>Hello, World!</h1>";
+
+// Process through decorated object
+echo $safeText->process($input); // Output: &LT;H1&GT;HELLO, WORLD!&LT;/H1&GT;
+
+```

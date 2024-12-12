@@ -7,3 +7,10 @@ The operator `::` explicitly tells PHP which class to look at when accessing a m
 - Working with **static members**.
 - Referencing **constants**.
 - Differentiating between a **parent class** and a **child class** in inheritance.
+
+## **[[Parent keyword]] and [[self keyword]]**
+
+When using `self` or `parent` with the scope resolution operator, it resolves the context to:
+
+- `self::` → The **current class** where the code is being executed.
+- `parent::` → The **parent class** of the current class.

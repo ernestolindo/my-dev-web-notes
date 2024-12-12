@@ -1,4 +1,4 @@
-# **parent keyword in PHP**
+# **parent keyword**
 
 - Refers to the **parent class** of the current class (in the context of inheritance).
 - Used to:
