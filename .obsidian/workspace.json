@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7fea1d1d04fade8",
+  "active": "3e2dcae4f90af5c3",
   "lastOpenFiles": [
     "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
     "Object-Oriented Programming/Design patterns/Adapter Pattern.md",
