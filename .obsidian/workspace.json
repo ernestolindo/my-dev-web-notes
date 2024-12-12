@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object-Oriented Programming/Design patterns/Adapter Pattern.md"
+                "file": "Decorator Pattern.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Adapter Pattern"
+              "title": "Outline of Decorator Pattern"
             }
           },
           {
@@ -202,10 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e2dcae4f90af5c3",
+  "active": "48c4e5f8b3e5f0cf",
   "lastOpenFiles": [
-    "Decorator Pattern.md",
     "Object-Oriented Programming/Design patterns/Adapter Pattern.md",
+    "Decorator Pattern.md",
     "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
     "Object-Oriented Programming/Design patterns/Singleton Pattern.md",
     "Object-Oriented Programming/Programación orientada a objetos y UML.md",
