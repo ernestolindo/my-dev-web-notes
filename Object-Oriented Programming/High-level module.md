@@ -1,6 +1,6 @@
 # **High-level module**
 
-A [[module]] is a self-contained part of a program that performs a specific task or set of tasks. In object-oriented programming a module could be a class or a set of related classes.
+A [[Module]] is a self-contained part of a program that performs a specific task or set of tasks. In object-oriented programming a module could be a class or a set of related classes.
 
 High-level modules:
 

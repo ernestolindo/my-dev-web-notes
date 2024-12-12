@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Low-level module.md",
+                "file": "Object-Oriented Programming/SOLID Principles for Object-Oriented Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Low-level module"
+              "title": "SOLID Principles for Object-Oriented Design"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Low-level module.md"
+                "file": "Object-Oriented Programming/SOLID Principles for Object-Oriented Design.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Low-level module"
+              "title": "Outline of SOLID Principles for Object-Oriented Design"
             }
           },
           {
@@ -176,35 +176,36 @@
   },
   "active": "c7fea1d1d04fade8",
   "lastOpenFiles": [
+    "NodeJS/Packages.md",
+    "Software Development Life Cycle.md",
+    "Object-Oriented Programming/Module.md",
+    "CRUD en PHP - Actualizar y eliminar.md",
+    "FSJ 02-12-24.md",
+    "Code Refactoring.md",
+    "Business domain.md",
+    "Business logic.md",
+    "Object-Oriented Programming/Creational patterns.md",
+    "Object-Oriented Programming/Low-level module.md",
     "Object-Oriented Programming",
     "Introducción a las bases de datos.md",
     "Improving Web Performance.md",
     "JavaScript/JavaScript Essentials.md",
-    "Actualizar y eliminar una aerolínea - FSJ.md",
     "JavaScript",
     "NodeJS",
     "2024-12-11.md",
-    "Creational patterns.md",
     "desktop.ini",
     "2024-12-10.md",
     "SASS.md",
     "Preprocessor Scripting Language.md",
     "NodeJS/package-lock.json.md",
-    "Packages.md",
     "NodeJS/package.json.md",
     "NodeJS/Node Package Manager.md",
     "NodeJS/Node.js.md",
-    "Code Refactoring.md",
     "Discurso de un graduando INAC 2024 - Estructura.md",
-    "SOLID Principles for Object-Oriented Design.md",
-    "High-level module.md",
-    "Low-level module.md",
-    "Module.md",
-    "Business logic.md",
-    "Business domain.md",
-    "Composition.md",
+    "Object-Oriented Programming/SOLID Principles for Object-Oriented Design.md",
+    "Object-Oriented Programming/High-level module.md",
+    "Object-Oriented Programming/Composition.md",
     "My new note.md",
-    "FSJ 02-12-24.md",
     "Testing"
   ]
 }

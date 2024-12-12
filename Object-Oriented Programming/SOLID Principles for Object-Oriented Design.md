@@ -1,4 +1,4 @@
-# SOLID Principles for Object-Oriented Design
+# **SOLID Principles for Object-Oriented Design**
 
 ## **Single-Responsibility Principle**
 
@@ -10,7 +10,7 @@ By splitting responsibilities into separate, dedicated classes, you achieve **mo
 1. **Define clear responsibilities**: Identify the primary purpose of a class.
 2. **Split classes**: Extract responsibilities into new, dedicated classes.
 3. **Use interfaces**:	Represent specific roles or behaviors to enforce SRP.
-4. **Delegate responsibilities**: Assign tasks to helper or dependency classes via [[composition]].
+4. **Delegate responsibilities**: Assign tasks to helper or dependency classes via [[Composition]].
 5. **Follow "one reason to change"**: Ensure a class changes only for its defined responsibility.
 Keep methods focused
 ## **Open Closed Principle**
@@ -33,7 +33,7 @@ Suppose you have a class `Shape` with a method `calculateArea()` that returns th
 1. **Use a Common Abstraction**: Ensure that your superclass (or interface) defines **general behaviors** that all subclasses are expected to implement.
 2. **Avoid Overriding with Unexpected Behavior**: Subclasses should not change the meaning of a method inherited from the superclass.
 3. **Avoid Tight Coupling**: Do not hard-code logic that depends on specific subclasses.
-4. **Favor [[Composition]] Over Inheritance**: Sometimes, **[[composition]]** (combining objects) is a better solution than inheritance.
+4. **Favor [[Composition]] Over Inheritance**: Sometimes, **[[Composition]]** (combining objects) is a better solution than inheritance.
 ## **Interface Segregation**
 
 > "A class should not be forced to implement interfaces it does not use."

@@ -1,6 +1,6 @@
-# Actualizar y eliminar una aerolínea - FSJ
+# **CRUD en PHP - Actualizar y eliminar**
 
-## Solución de mi error en la función `getAerolineaPorId()`
+## **Solución de mi error en la función** `getAerolineaPorId()`
 
 La variable **$id** obtenida desde la URL viene como **string**, mientras que el id guardado en el array es de tipo **number**, por ello se retorna FALSE al utilizar el operador de comparación estricto. Solución: ==utilizar el loose equality operator==.
 
@@ -24,7 +24,7 @@ function getAerolineaPorId($id, $aerolineas)
 
 ---
 
-## Editar una aerolínea
+## **Editar una aerolínea**
 
 1. Crear un botón de edición para cada registro que al ser presionado pase el ID correspondiente como valor del parámetro `edit` en el query string de la URL.
 2. Crear un formulario de edición.
@@ -34,7 +34,7 @@ function getAerolineaPorId($id, $aerolineas)
 7. Sí el **id** de la aerolínea del array concuerda con el **id** enviando en el `$_POST`, utilizar los setters para reemplazar los datos actuales del objeto por los enviados en el form.
 
 --- 
-## Eliminar una aerolínea
+## **Eliminar una aerolínea**
 
 1. Crear un botón de eliminación para cada registro que al ser presionado pase el ID correspondiente como valor del parámetro `delete` en el query string de la URL.
 2. Si existe el parámetro `delete` en el superglobal `$_GET`, recorrer el array de **aerolíneas**.
