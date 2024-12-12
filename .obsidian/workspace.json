@@ -49,8 +49,7 @@
               "title": "2024-12-10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,12 +101,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5fdb9fe1d89f14de",
@@ -142,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creational patterns.md",
+                "file": "2024-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Creational patterns"
+              "title": "Outgoing links from 2024-12-11"
             }
           },
           {
@@ -169,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creational patterns.md"
+                "file": "2024-12-11.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Creational patterns"
+              "title": "Outline of 2024-12-11"
             }
           },
           {
@@ -203,10 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3aeb495e2ca7d361",
+  "active": "63175317bb2f32fa",
   "lastOpenFiles": [
-    "2024-12-11.md",
     "Creational patterns.md",
+    "2024-12-11.md",
     "desktop.ini",
     "2024-12-10.md",
     "SASS.md",
