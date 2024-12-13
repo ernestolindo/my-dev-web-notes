@@ -23,15 +23,16 @@ Direct instantiation is fine for **simple cases** with few object types and litt
 | **Reusability**      | Logic tied to specific context          | Reusable factory logic              |
 ### *How to Implement*
 
-1. **Creator Class**:
+1. **Product Interface**:
+    - Declares common operations that all product types support.
+2. **Concrete Product**:
+    - Implements the product interface.
+3. **Creator Class**:
     - Defines the factory method as an abstract method.
     - May also include some default behavior for object management.
-2. **Concrete Creator**:
+4. **Concrete Creator**:
     - Implements the factory method to create specific product instances.
-3. **Product Interface**:
-    - Declares common operations that all product types support.
-4. **Concrete Product**:
-    - Implements the product interface.
+
 ### *Basic PHP Implementation*
 
 ```
