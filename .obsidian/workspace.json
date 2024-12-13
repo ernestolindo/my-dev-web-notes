@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON Encoding.md",
+                "file": "PHP/JSON Encoding.md",
                 "mode": "source",
                 "source": false
               },
@@ -267,10 +267,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e7d83c4c16347bf",
+  "active": "c7fea1d1d04fade8",
   "lastOpenFiles": [
     "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
-    "JSON Encoding.md",
+    "PHP/JSON Encoding.md",
     "Object-Oriented Programming/Design patterns/Decorator Pattern.md",
     "Object-Oriented Programming/Design patterns/Adapter Pattern.md",
     "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
