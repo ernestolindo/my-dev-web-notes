@@ -170,6 +170,16 @@
             }
           },
           {
+            "id": "d66fdab2f952c2d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "57f352cb7a32352d",
             "type": "leaf",
             "state": {
@@ -181,19 +191,9 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "d66fdab2f952c2d5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -210,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7fea1d1d04fade8",
+  "active": "75b206486d4c1192",
   "lastOpenFiles": [
     "Selection sorting algorithm.md",
     "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
