@@ -7,3 +7,8 @@ Data Definition Language (DDL) is a syntax used for creating, modifying, and del
 CREATE DATABASE empresa;
 ```
 
+**Select database**:
+```mysql
+USE empresa;
+```
+
