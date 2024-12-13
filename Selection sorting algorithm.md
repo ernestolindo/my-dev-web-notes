@@ -23,7 +23,7 @@ For the array `[64, 25, 12, 22, 11]`:
 ## **Pros and Cons**:
 - **Pros**:
   - Simple and easy to implement.
-  - Works well for small datasets or when memory is limited (because of its O(1) space complexity).
+  - Works well for small datasets 
 - **Cons**:
   - Inefficient for large datasets due to its O(n^2) time complexity.
   - Performs unnecessary swaps even when the array is partially sorted.

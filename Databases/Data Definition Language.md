@@ -1,4 +1,4 @@
-Data Definition Language (DDL) is a syntax used for creating, modifying, and deleting database objects like tables and indexes.
+Data Definition Language (DDL) is a syntax used for creating, modifying, and deleting database objects like tables.
 
 `#` or `--` is used to make a comment.
 
