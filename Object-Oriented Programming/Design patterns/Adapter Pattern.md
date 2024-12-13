@@ -25,7 +25,7 @@ The **Adapter Design Pattern** is a structural design pattern used to enable two
 
 ## **Basic PHP Implementation**
 
-```
+```php
 <?php
 
 // Adaptee: Provides temperature in Celsius
