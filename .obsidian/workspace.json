@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
+                "file": "Object-Oriented Programming/Design patterns/Adapter Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factory Method Pattern"
+              "title": "Adapter Pattern"
             }
           },
           {
@@ -255,8 +255,8 @@
   },
   "active": "467d79dd793ad8e2",
   "lastOpenFiles": [
-    "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
     "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
+    "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
     "Selection sorting algorithm.md",
     "Escaping in the context of HTML.md",
     "PHP/Scope Resolution Operator.md",

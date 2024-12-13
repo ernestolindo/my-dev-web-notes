@@ -18,10 +18,10 @@ The **Adapter Design Pattern** is a structural design pattern used to enable two
 
 ## **How to implement**
 
-- **Target Interface**: Define the interface that the client expects.
-- **Adapter Class**: Create an adapter class that implements the target interface and uses the adaptee (the existing class with a different interface).
-- **Adaptee**: The existing class whose interface is incompatible with the target.
-- **Client**: The client interacts with the target interface, and the adapter ensures that the client gets the correct behavior.
+1. **Adaptee**: The existing class whose interface is incompatible with the target.
+2. **Target Interface**: Define the interface that the client expects.
+3. **Adapter Class**: Create an adapter class that implements the target interface and uses the adaptee (the existing class with a different interface).
+4. **Client**: The client interacts with the target interface, and the adapter ensures that the client gets the correct behavior.
 
 ## **Basic PHP Implementation**
 
