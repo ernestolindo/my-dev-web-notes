@@ -93,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
+                "file": "Databases/Data Definition Language.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -121,7 +121,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Strategy Pattern"
+              "title": "Graph of Data Definition Language"
             }
           },
           {
@@ -192,12 +192,12 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
