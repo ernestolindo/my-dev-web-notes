@@ -24,7 +24,7 @@ Direct instantiation is fine for **simple cases** with few object types and litt
 ### *How to Implement*
 
 1. **Creator Class**:
-    - Defines the factory method as an abstract method or virtual function.
+    - Defines the factory method as an abstract method.
     - May also include some default behavior for object management.
 2. **Concrete Creator**:
     - Implements the factory method to create specific product instances.
