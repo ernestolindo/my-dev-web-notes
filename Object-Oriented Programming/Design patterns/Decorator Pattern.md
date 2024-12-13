@@ -51,7 +51,7 @@ The **Decorator Pattern** is a structural design pattern that allows behavior to
 
 ## **Basic PHP Implementation**
 
-```
+```php
 <?php 
 
 // Component interface
@@ -94,8 +94,6 @@ class HTMLEscapeDecorator extends TextDecorator {
 }
 
 // Using the decorator pattern
-
-<?php
 
 $plainText = new PlainText();
 $uppercaseText = new UppercaseDecorator($plainText);
