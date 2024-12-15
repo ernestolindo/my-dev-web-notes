@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "applaudod",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -267,7 +268,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8dd80249be2a8ec4",
+  "active": "d063f2883aec2544",
   "lastOpenFiles": [
     "Escaping in the context of HTML.md",
     "a test note.md",
