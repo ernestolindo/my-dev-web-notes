@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strategy Pattern"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -267,15 +267,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7fea1d1d04fade8",
+  "active": "8dd80249be2a8ec4",
   "lastOpenFiles": [
-    "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
+    "Escaping in the context of HTML.md",
+    "a test note.md",
+    "README.md",
     "PHP/JSON Encoding.md",
+    "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
     "Object-Oriented Programming/Design patterns/Decorator Pattern.md",
     "Object-Oriented Programming/Design patterns/Adapter Pattern.md",
     "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
     "Selection sorting algorithm.md",
-    "Escaping in the context of HTML.md",
     "PHP/Scope Resolution Operator.md",
     "PHP/parent keyword.md",
     "PHP/self keyword.md",
@@ -296,8 +298,6 @@
     "PHP/CRUD en PHP - Actualizar y eliminar.md",
     "FSJ 02-12-24.md",
     "Code Refactoring.md",
-    "Business domain.md",
-    "Business logic.md",
     "Object-Oriented Programming",
     "JavaScript",
     "NodeJS",
