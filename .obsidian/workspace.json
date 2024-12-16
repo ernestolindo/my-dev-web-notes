@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "2afa7c8c2b37687d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dist folder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dist folder"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -267,11 +281,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7fea1d1d04fade8",
+  "active": "2afa7c8c2b37687d",
   "lastOpenFiles": [
+    "README.md",
+    "Dist folder.md",
     "Escaping in the context of HTML.md",
     "a test note.md",
-    "README.md",
     "PHP/JSON Encoding.md",
     "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
     "Object-Oriented Programming/Design patterns/Decorator Pattern.md",
@@ -297,7 +312,6 @@
     "Object-Oriented Programming/Module.md",
     "PHP/CRUD en PHP - Actualizar y eliminar.md",
     "FSJ 02-12-24.md",
-    "Code Refactoring.md",
     "Object-Oriented Programming",
     "JavaScript",
     "NodeJS",
