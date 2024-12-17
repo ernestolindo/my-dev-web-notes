@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,12 +239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eec068a5dd6019c3",
+  "active": "541a712593ef2a18",
   "lastOpenFiles": [
-    "Databases/Data Manipulation Language.md",
     "Relaciones en las tablas.md",
-    "desktop.ini",
+    "Databases/Data Manipulation Language.md",
     "Databases/Data Definition Language.md",
+    "desktop.ini",
     "Dist folder.md",
     "README.md",
     "Escaping in the context of HTML.md",

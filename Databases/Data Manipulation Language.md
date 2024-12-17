@@ -25,3 +25,8 @@ SELECT * FROM productos WHERE cantidad > 5;
 ```mysql
 UPDATE productos SET precio = 100, cantidad = cantidad + 5 WHERE id = 1;
 ```
+
+**Eliminar un dato**:
+```mysql
+DELETE FROM productos WHERE id = 1
+```
