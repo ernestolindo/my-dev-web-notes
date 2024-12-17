@@ -225,8 +225,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7fea1d1d04fade8",
+  "active": "541a712593ef2a18",
   "lastOpenFiles": [
+    "desktop.ini",
     "Databases/Data Definition Language.md",
     "Databases/Data Manipulation Language.md",
     "Dist folder.md",
@@ -255,11 +256,9 @@
     "NodeJS/Packages.md",
     "Software Development Life Cycle.md",
     "Object-Oriented Programming/Module.md",
-    "PHP/CRUD en PHP - Actualizar y eliminar.md",
     "Object-Oriented Programming",
     "JavaScript",
     "NodeJS",
-    "desktop.ini",
     "Testing"
   ]
 }
