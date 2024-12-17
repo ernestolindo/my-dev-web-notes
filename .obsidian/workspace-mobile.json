@@ -1,38 +1,24 @@
 {
   "main": {
-    "id": "d56c991a9d3c5500",
+    "id": "91bd0fc5bbeefbcc",
     "type": "split",
     "children": [
       {
-        "id": "bcf4cec7309fcbdb",
+        "id": "c2fe1c738b4c13ed",
         "type": "tabs",
         "children": [
           {
-            "id": "879c768137a348d3",
+            "id": "2639335bc8b9ff62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eri's RP.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eri's RP"
-            }
-          },
-          {
-            "id": "6bfbc04270378fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discurso de un graduando INAC 2024 - Estructura.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Discurso de un graduando INAC 2024 - Estructura"
+              "title": "README"
             }
           }
         ]
@@ -41,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6e5b49ca45b1d3e1",
+    "id": "0bff0a87edcde501",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d726d8f186813761",
+        "id": "2a9bc5de2d274e80",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -57,7 +43,7 @@
         }
       },
       {
-        "id": "b39264bea506da23",
+        "id": "14c462b4beeea5be",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -74,7 +60,7 @@
         }
       },
       {
-        "id": "d5bedb0abab4b4ff",
+        "id": "4354bc4fb1461afe",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -87,7 +73,7 @@
         }
       },
       {
-        "id": "3b01f80cde5b30ca",
+        "id": "0d9a1704e7158a0b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -100,11 +86,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "e663404049d02266",
+    "id": "227e0317ebbe408d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8e8874aca41cabd4",
+        "id": "99d81ac0cb2498ff",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -122,7 +108,7 @@
         }
       },
       {
-        "id": "a5318f5867f5807d",
+        "id": "0220117b620b08bd",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -135,7 +121,7 @@
         }
       },
       {
-        "id": "862d4c84adb047e6",
+        "id": "328736c77780ec08",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -143,19 +129,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "aa8d44ba3725993d",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,34 +144,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "879c768137a348d3",
+  "active": "2639335bc8b9ff62",
   "lastOpenFiles": [
-    "Discurso de un graduando INAC 2024 - Estructura.md",
-    "Eri's RP.md",
-    "Applaudo Talk - Marca personal y gestion de tiempo.md",
-    "SOLID Principles for Object-Oriented Design.md",
-    "La fórmula para ser millonario.md",
-    "Low-level module.md",
-    "High-level module.md",
-    "Business logic.md",
-    "Module.md",
-    "Business domain.md",
-    "/Low-level module.md",
-    "/High-level module.md",
-    "/SOLID Principles for Object-Oriented Design.md",
-    "/Business logic.md",
-    "/Module.md",
-    "/Business domain.md",
-    "Discurso de graduación - Estructuración del borrador.md",
-    "My new note.md",
-    "Software Development Life Cycle.md",
-    "FSJ 02-12-24.md",
-    "/Software Development Life Cycle.md",
-    "/FSJ 02-12-24.md",
-    "DOM Scripting.md",
-    "Testing/Three laws of motion.md",
-    "Testing/Obsidian.md",
-    "Testing/Law of Inertia.md",
-    "Testing"
+    "Selection sorting algorithm.md",
+    "SASS.md",
+    "README.md",
+    "Preprocessor Scripting Language.md",
+    "PHP/self keyword.md",
+    "PHP/parent keyword.md",
+    "PHP/Scope Resolution Operator.md",
+    "PHP/JSON Encoding.md",
+    "PHP/CRUD en PHP - Actualizar y eliminar.md",
+    "Object-Oriented Programming/SOLID Principles for Object-Oriented Design.md",
+    "Object-Oriented Programming/Programación orientada a objetos y UML.md",
+    "Object-Oriented Programming/Module.md",
+    "Object-Oriented Programming/Low-level module.md",
+    "Object-Oriented Programming/High-level module.md",
+    "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
+    "Object-Oriented Programming/Design patterns/Singleton Pattern.md",
+    "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
+    "Object-Oriented Programming/Design patterns/Decorator Pattern.md",
+    "Object-Oriented Programming/Design patterns/Adapter Pattern.md",
+    "Object-Oriented Programming/Composition.md",
+    "NodeJS/package.json.md",
+    "NodeJS/package-lock.json.md",
+    "NodeJS/Packages.md",
+    "NodeJS/Node.js.md",
+    "NodeJS/Node Package Manager.md",
+    "JavaScript/JavaScript Essentials.md",
+    "PHP",
+    "Object-Oriented Programming/Design patterns",
+    "Object-Oriented Programming",
+    "NodeJS",
+    "JavaScript",
+    "Databases"
   ]
 }
