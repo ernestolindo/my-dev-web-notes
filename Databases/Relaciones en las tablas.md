@@ -21,7 +21,7 @@ CREATE TABLE productos_ordenes(
 
 ## Join
 
-Combines records from two or more tables in a database.
+[[Joins]] combine records from two or more tables in a database.
 
 ```mysql
 # JOIN

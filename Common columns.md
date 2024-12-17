@@ -1,0 +1,1 @@
+Columns in different tables that are related or linked. These columns **don’t have to share the same name** but must contain **related data** that can be used to match rows between the tables.
