@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Databases/Relaciones en las tablas.md",
+                "file": "Common columns.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Relaciones en las tablas"
+              "title": "Graph of Common columns"
             }
           },
           {
@@ -252,10 +252,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eec068a5dd6019c3",
+  "active": "701fe56bf60cda4e",
   "lastOpenFiles": [
-    "Common columns.md",
     "Joins.md",
+    "Common columns.md",
     "Databases/Relaciones en las tablas.md",
     "Databases/desktop.ini",
     "Databases/Data Manipulation Language.md",
