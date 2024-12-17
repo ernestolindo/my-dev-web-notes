@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relaciones en las tablas.md",
+                "file": "Databases/Relaciones en las tablas.md",
                 "mode": "source",
                 "source": false
               },
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Databases/Data Definition Language.md",
+                "file": "Databases/Relaciones en las tablas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +150,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Data Definition Language"
+              "title": "Graph of Relaciones en las tablas"
             }
           },
           {
@@ -221,12 +221,12 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,10 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eec068a5dd6019c3",
+  "active": "c7fea1d1d04fade8",
   "lastOpenFiles": [
+    "Databases/desktop.ini",
     "Databases/Data Manipulation Language.md",
-    "Relaciones en las tablas.md",
+    "Databases/Relaciones en las tablas.md",
     "Databases/Data Definition Language.md",
     "desktop.ini",
     "Dist folder.md",
@@ -270,7 +271,6 @@
     "Object-Oriented Programming/SOLID Principles for Object-Oriented Design.md",
     "NodeJS/Packages.md",
     "Software Development Life Cycle.md",
-    "Object-Oriented Programming/Module.md",
     "Object-Oriented Programming",
     "JavaScript",
     "NodeJS",
