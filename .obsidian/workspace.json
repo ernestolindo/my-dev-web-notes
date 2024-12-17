@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Joins.md",
+                "file": "Selection sorting algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Joins"
+              "title": "Selection sorting algorithm"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Databases/Joins.md",
+                "file": "Selection sorting algorithm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Joins"
+              "title": "Graph of Selection sorting algorithm"
             }
           },
           {
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
+                "file": "Selection sorting algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Strategy Pattern"
+              "title": "Outgoing links from Selection sorting algorithm"
             }
           },
           {
@@ -206,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object-Oriented Programming/Design patterns/Strategy Pattern.md"
+                "file": "Selection sorting algorithm.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Strategy Pattern"
+              "title": "Outline of Selection sorting algorithm"
             }
           },
           {
@@ -235,7 +235,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -252,10 +253,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7fea1d1d04fade8",
+  "active": "3f55944f86368d76",
   "lastOpenFiles": [
-    "Databases/Common columns.md",
     "Databases/Joins.md",
+    "Databases/Common columns.md",
     "Databases/Relaciones en las tablas.md",
     "Databases/desktop.ini",
     "Databases/Data Manipulation Language.md",
