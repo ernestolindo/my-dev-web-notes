@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,10 +239,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "541a712593ef2a18",
+  "active": "eec068a5dd6019c3",
   "lastOpenFiles": [
-    "Relaciones en las tablas.md",
     "Databases/Data Manipulation Language.md",
+    "Relaciones en las tablas.md",
     "Databases/Data Definition Language.md",
     "desktop.ini",
     "Dist folder.md",

@@ -18,3 +18,7 @@ CREATE TABLE productos_ordenes(
 
 **muchos a muchos**
 > "Una misma orden puede tener muchos productos y un mismo producto puede estar en muchas ordenes"
+
+## Join
+
+Crea temporalmente varias tablas para darnos todo junto en una sola respuesta.
