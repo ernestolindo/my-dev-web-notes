@@ -21,7 +21,7 @@ CREATE TABLE productos_ordenes(
 
 ## Join
 
-Crea temporalmente varias tablas para darnos todo junto en una sola respuesta.
+Combines records from two or more tables in a database.
 
 ```mysql
 # JOIN
@@ -30,5 +30,5 @@ FROM productos
 # Traer los productos cuando aparezcan en productos_ordenes
 JOIN productos_ordenes ON productos.id = productos_ordenes.id_producto
 # Traer las ordenes cuando aparezcan en productos_ordenes
-JOIN ordenes ON productos.id = productos_ordenes.id_orden;
+JOIN ordenes ON productos_ordenes.id_orden = ordenes.id;
 ```
