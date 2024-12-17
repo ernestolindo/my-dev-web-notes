@@ -17,9 +17,12 @@ INSERT INTO productos (nombre, precio, cantidad, proveedor) VALUES
 **Leer datos**
 ```mysql
 SELECT * FROM productos LIMIT 25;
+
+# Leer un dato en particular
+SELECT * FROM productos WHERE cantidad > 5;
 ```
 
 **Actualizar un dato**:
 ```mysql
-UPDATE productos SET precio = 100, cantidad = cantidad + 5 WHERE
+UPDATE productos SET precio = 100, cantidad = cantidad + 5 WHERE id = 1;
 ```
