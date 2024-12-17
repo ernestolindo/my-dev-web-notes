@@ -95,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,9 +130,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "ded0cba16e867f47",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,6 +157,14 @@
   },
   "active": "2639335bc8b9ff62",
   "lastOpenFiles": [
+    "Databases/Relaciones en las tablas.md",
+    "/Databases/Relaciones en las tablas.md",
+    "Relaciones en las tablas.md",
+    "Databases/Data Manipulation Language.md",
+    "Dist folder.md",
+    "/Relaciones en las tablas.md",
+    "/Databases/Data Manipulation Language.md",
+    "/Dist folder.md",
     "Selection sorting algorithm.md",
     "SASS.md",
     "README.md",
@@ -164,14 +183,6 @@
     "Object-Oriented Programming/Design patterns/Singleton Pattern.md",
     "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
     "Object-Oriented Programming/Design patterns/Decorator Pattern.md",
-    "Object-Oriented Programming/Design patterns/Adapter Pattern.md",
-    "Object-Oriented Programming/Composition.md",
-    "NodeJS/package.json.md",
-    "NodeJS/package-lock.json.md",
-    "NodeJS/Packages.md",
-    "NodeJS/Node.js.md",
-    "NodeJS/Node Package Manager.md",
-    "JavaScript/JavaScript Essentials.md",
     "PHP",
     "Object-Oriented Programming/Design patterns",
     "Object-Oriented Programming",
