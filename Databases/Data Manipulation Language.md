@@ -9,14 +9,9 @@ USE empresa;
 
 **Crear datos**:
 ```mysql
-
 # Forma 1
 INSERT INTO productos (nombre, precio, cantidad, proveedor) VALUES 
 ("Teclado", 50, 5, "Keychron"), ("Monitor", 510, 15, "Lenovo");
-
-#Forma 2
-
-
 ```
 
 **Leer datos**
@@ -24,3 +19,7 @@ INSERT INTO productos (nombre, precio, cantidad, proveedor) VALUES
 SELECT * FROM productos LIMIT 25;
 ```
 
+**Actualizar un dato**:
+```mysql
+UPDATE productos SET precio = 100, cantidad = cantidad + 5 WHERE
+```
