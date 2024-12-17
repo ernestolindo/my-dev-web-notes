@@ -9,7 +9,6 @@ USE empresa;
 
 **Crear datos**:
 ```mysql
-# Forma 1
 INSERT INTO productos (nombre, precio, cantidad, proveedor) VALUES 
 ("Teclado", 50, 5, "Keychron"), ("Monitor", 510, 15, "Lenovo");
 ```
