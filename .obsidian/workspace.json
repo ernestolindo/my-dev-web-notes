@@ -4,95 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f695b6be6518a53e",
+        "id": "1b443a6a6e46d01b",
         "type": "tabs",
         "children": [
           {
-            "id": "a7eaefccd207477d",
+            "id": "7d2c832927c63e90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escaping in the context of HTML.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Escaping in the context of HTML"
-            }
-          },
-          {
-            "id": "05145bd9c03673ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selection sorting algorithm.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Selection sorting algorithm"
-            }
-          },
-          {
-            "id": "467d79dd793ad8e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strategy Pattern"
-            }
-          },
-          {
-            "id": "8e7d83c4c16347bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/JSON Encoding.md",
+                "file": "Databases/Data Definition Language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSON Encoding"
+              "title": "Data Definition Language"
             }
           },
           {
-            "id": "8dd80249be2a8ec4",
+            "id": "541a712593ef2a18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Databases/Data Manipulation Language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "2afa7c8c2b37687d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dist folder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dist folder"
+              "title": "Data Manipulation Language"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,10 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2afa7c8c2b37687d",
+  "active": "c7fea1d1d04fade8",
   "lastOpenFiles": [
-    "README.md",
+    "Databases/Data Definition Language.md",
+    "Databases/Data Manipulation Language.md",
     "Dist folder.md",
+    "README.md",
     "Escaping in the context of HTML.md",
     "a test note.md",
     "PHP/JSON Encoding.md",
@@ -296,7 +242,6 @@
     "PHP/Scope Resolution Operator.md",
     "PHP/parent keyword.md",
     "PHP/self keyword.md",
-    "Databases/Data Definition Language.md",
     "Databases",
     "FSJ 2024-12-12.md",
     "Object-Oriented Programming/Composition.md",
@@ -311,7 +256,6 @@
     "Software Development Life Cycle.md",
     "Object-Oriented Programming/Module.md",
     "PHP/CRUD en PHP - Actualizar y eliminar.md",
-    "FSJ 02-12-24.md",
     "Object-Oriented Programming",
     "JavaScript",
     "NodeJS",
