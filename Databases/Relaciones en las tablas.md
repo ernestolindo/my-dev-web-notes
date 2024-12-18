@@ -32,3 +32,5 @@ JOIN productos_ordenes ON productos.id = productos_ordenes.id_producto
 # Traer las ordenes cuando aparezcan en productos_ordenes
 JOIN ordenes ON productos_ordenes.id_orden = ordenes.id;
 ```
+
+Muchas veces necesitamos tablas intermedias como `productos_ordenes` que nos permitan relacionar dos tablas. No podríamos haber hecho el JOIN de arriba sin esa tabla.
