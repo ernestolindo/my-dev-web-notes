@@ -1,0 +1,1 @@
+`.htaccess` (abreviatura de "Hypertext Access") es un archivo de configuración que se utiliza en servidores web **Apache** para controlar cómo se manejan ciertas solicitudes en el servidor. Este archivo puede contener reglas que afectan la forma en que las URLs son procesadas, los permisos de acceso, redirecciones, entre otras cosas.
