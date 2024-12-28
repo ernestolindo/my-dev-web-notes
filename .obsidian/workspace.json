@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "htaccess.md",
+                "file": "Redirecting URLs to index.php - htaccess.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "htaccess"
+              "title": "Redirecting URLs to index.php - htaccess"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "htaccess.md",
+                "file": "Redirecting URLs to index.php - htaccess.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -121,7 +121,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of htaccess"
+              "title": "Graph of Redirecting URLs to index.php - htaccess"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
+                "file": "Redirecting URLs to index.php - htaccess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Strategy Pattern"
+              "title": "Backlinks for Redirecting URLs to index.php - htaccess"
             }
           },
           {
@@ -149,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command-line interface (CLI).md",
+                "file": "Redirecting URLs to index.php - htaccess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Command-line interface (CLI)"
+              "title": "Outgoing links from Redirecting URLs to index.php - htaccess"
             }
           },
           {
@@ -192,7 +192,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -209,9 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c874a89de328339",
+  "active": "3f55944f86368d76",
   "lastOpenFiles": [
     "htaccess.md",
+    "Redirecting URLs to index.php - htaccess.md",
     "Databases/Introduction to MySQL.md",
     "JavaScript/JavaScript Essentials.md",
     "SASS.md",
@@ -240,7 +242,6 @@
     "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
     "PHP/Scope Resolution Operator.md",
     "PHP/parent keyword.md",
-    "PHP/self keyword.md",
     "Databases",
     "PHP",
     "Object-Oriented Programming/Design patterns",
