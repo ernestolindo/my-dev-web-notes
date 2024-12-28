@@ -7,7 +7,7 @@ Options -Indexes
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ index.php [L]
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
 ```
 
 #### 1. **`Options -Indexes`**
@@ -36,5 +36,6 @@ De manera similar, esta regla verifica si la solicitud **NO** es una carpeta.
 Esta es la regla principal que **redirige todas las demás solicitudes a `index.php`**.
 
 - `^(.*)$`: Captura todo lo que se escriba en la URL.
-- `index.php`: Es el archivo al que se redirigen las solicitudes capturadas.
+- **`index.php?url=$1`**: Esto agrega el valor capturado por `(.*)` (el contenido de la URL después del dominio) como un parámetro en la URL que será accesible dentro de `index.php` usando `$_GET['url']`.
+- **`[QSA]`**: Este flag significa "Query String Append", es decir, si la URL ya tiene parámetros de consulta (como `?foo=bar`), se conservarán y se agregarán a la nueva URL reescrita.
 - `[L]`: Indica que esta es la última regla que debe evaluarse para esta solicitud.
