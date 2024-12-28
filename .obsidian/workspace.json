@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Redirecting URLs to index.php - htaccess.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -210,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f55944f86368d76",
+  "active": "0c874a89de328339",
   "lastOpenFiles": [
     "htaccess.md",
     "Redirecting URLs to index.php - htaccess.md",

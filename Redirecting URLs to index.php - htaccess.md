@@ -1,6 +1,6 @@
 # **Redirecting URLs to index.php - htaccess**
 
-En tu aplicación, necesitas que todas las URLs pasen por `index.php` para que el enrutador determine qué controlador y método ejecutar. Para ello, necesitas crear un `.[[htaccess]]`
+En tu aplicación, necesitas que todas las URLs pasen por `index.php` para que el enrutador determine qué controlador y método ejecutar. Para ello, necesitas crear un [[htaccess]].
 
 ```
 Options -Indexes
