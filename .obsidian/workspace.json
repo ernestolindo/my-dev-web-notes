@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -205,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2aeb14db8009bd8",
+  "active": "d66fdab2f952c2d5",
   "lastOpenFiles": [
     "Object-Oriented Programming/Design patterns/Decorator Pattern.md",
     "JavaScript/JavaScript Essentials.md",
