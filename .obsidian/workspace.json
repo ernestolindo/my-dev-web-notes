@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "48547812aee5fc55",
+        "id": "6d8de17b87645bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "0c874a89de328339",
+            "id": "b2aeb14db8009bd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redirecting URLs to index.php - htaccess.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Redirecting URLs to index.php - htaccess"
+              "title": "New tab"
             }
           }
         ]
@@ -149,12 +145,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redirecting URLs to index.php - htaccess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Redirecting URLs to index.php - htaccess"
+              "title": "Outgoing links"
             }
           },
           {
@@ -210,14 +205,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c874a89de328339",
+  "active": "b2aeb14db8009bd8",
   "lastOpenFiles": [
-    "htaccess.md",
-    "Redirecting URLs to index.php - htaccess.md",
-    "Databases/Introduction to MySQL.md",
+    "Object-Oriented Programming/Design patterns/Decorator Pattern.md",
     "JavaScript/JavaScript Essentials.md",
-    "SASS.md",
+    "JavaScript/DOM Scripting.md",
     "PHP & MySQL - Tarea de alojamientos.md",
+    "Redirecting URLs to index.php - htaccess.md",
+    "htaccess.md",
+    "Databases/Introduction to MySQL.md",
+    "SASS.md",
     "alojamientos_app/Creacion de la tabla usuarios.md",
     "Command-line interface (CLI).md",
     "alojamientos_app",
@@ -237,11 +234,9 @@
     "a test note.md",
     "PHP/JSON Encoding.md",
     "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
-    "Object-Oriented Programming/Design patterns/Decorator Pattern.md",
     "Object-Oriented Programming/Design patterns/Adapter Pattern.md",
     "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
     "PHP/Scope Resolution Operator.md",
-    "PHP/parent keyword.md",
     "Databases",
     "PHP",
     "Object-Oriented Programming/Design patterns",
