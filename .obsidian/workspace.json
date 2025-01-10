@@ -11,10 +11,14 @@
             "id": "b2aeb14db8009bd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Creating an API - Class 2025-01-09.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Creating an API - Class 2025-01-09"
             }
           }
         ]
@@ -205,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d66fdab2f952c2d5",
+  "active": "b2aeb14db8009bd8",
   "lastOpenFiles": [
+    "Creating an API - Class 2025-01-09.md",
     "Object-Oriented Programming/Design patterns/Decorator Pattern.md",
     "JavaScript/JavaScript Essentials.md",
     "JavaScript/DOM Scripting.md",
@@ -236,7 +241,6 @@
     "Object-Oriented Programming/Design patterns/Strategy Pattern.md",
     "Object-Oriented Programming/Design patterns/Adapter Pattern.md",
     "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
-    "PHP/Scope Resolution Operator.md",
     "Databases",
     "PHP",
     "Object-Oriented Programming/Design patterns",
