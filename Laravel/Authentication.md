@@ -9,7 +9,7 @@ They interact through an URL.
 
 Our data does not get exposed.
 
-The tokens are stored in the table `personal_access_tokens` When we log out, we must delete all the tokens associated with an user.
+The tokens are stored in the table `personal_access_tokens` 
 
 Usamos el middleware con sanctum para proteger todas las rutas.
 ```php
@@ -26,3 +26,23 @@ Route::middleware('auth:sanctum')->group(function () {
 });
 ```
 
+When we log out, we must delete all the tokens associated with an user.
+```php
+public function logout(Request $request)
+
+    {
+
+        // Eliminar todos los tokens del usuario
+
+        $request->user()->tokens()->delete();
+
+  
+
+        return response()->json([
+
+            'message' => 'User logged out successfully'
+
+        ]);
+
+    }
+```
