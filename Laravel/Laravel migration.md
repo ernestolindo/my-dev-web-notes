@@ -1,0 +1,1 @@
+Laravel Migration is **a set of instructions that define the changes you want to make to your database schema**. These changes can include creating new tables, altering existing tables, adding or modifying columns, and seeding the database with initial data.
