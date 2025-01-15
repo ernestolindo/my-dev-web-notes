@@ -106,6 +106,20 @@
             }
           },
           {
+            "id": "516e5ca0c3d432a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/Laravel MVC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laravel MVC"
+            }
+          },
+          {
             "id": "549af07ebc4fa132",
             "type": "leaf",
             "state": {
@@ -120,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -192,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Laravel/Laravel migration.md",
+                "file": "Laravel/Laravel MVC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Laravel migration"
+              "title": "Graph of Laravel MVC"
             }
           },
           {
@@ -307,10 +321,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7fea1d1d04fade8",
+  "active": "516e5ca0c3d432a8",
   "lastOpenFiles": [
-    "Laravel/Creating an API - Class 2025-01-09.md",
     "Laravel/Laravel migration.md",
+    "Laravel/Laravel MVC.md",
+    "Laravel/Creating an API - Class 2025-01-09.md",
     "Laravel/Authentication.md",
     "Laravel/Token-based authentication system.md",
     "Laravel/Bearer Tokens.md",
@@ -332,14 +347,13 @@
     "Version Control",
     "Databases/Joins.md",
     "Databases/Common columns.md",
-    "Selection sorting algorithm.md",
+    "Databases/Selection sorting algorithm.md",
     "Databases/Data Manipulation Language.md",
     "Databases/Relaciones en las tablas.md",
     "Databases/desktop.ini",
     "Databases/Data Definition Language.md",
     "desktop.ini",
     "Dist folder.md",
-    "README.md",
     "Databases",
     "PHP",
     "Object-Oriented Programming/Design patterns",
