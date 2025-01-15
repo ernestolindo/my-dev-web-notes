@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Authentication.md",
+                "file": "Laravel/Creating an API - Class 2025-01-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authentication"
+              "title": "Creating an API - Class 2025-01-09"
             }
           },
           {
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Laravel/Authentication.md",
+                "file": "Laravel/Creating an API - Class 2025-01-09.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Authentication"
+              "title": "Graph of Creating an API - Class 2025-01-09"
             }
           },
           {
@@ -295,9 +295,9 @@
   },
   "active": "8b2089ca61306f91",
   "lastOpenFiles": [
+    "Laravel/Authentication.md",
     "Laravel/Token-based authentication system.md",
     "Laravel/Bearer Tokens.md",
-    "Laravel/Authentication.md",
     "Laravel/Deleting in an API (FSJ 2025-01-13).md",
     "Laravel/Updating an API (FSJ 2025-01-13).md",
     "Laravel/Creating an API - Class 2025-01-09.md",
