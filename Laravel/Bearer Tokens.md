@@ -1,0 +1,1 @@
+A **Bearer Token** is a type of access token used in authentication systems, particularly for securing APIs. It is called a "bearer" token because possession of the token (i.e., the "bearer") grants access to the resources associated with it. In essence, it acts like a key: if you have it, you can use it to access protected resources.
