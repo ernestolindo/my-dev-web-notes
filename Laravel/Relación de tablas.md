@@ -9,5 +9,22 @@ Referenciar a una columna en otra tabla, donde:
 
 También tenemos que hacer la relación de tablas en los modelos.
 
-En el modelo post:
+El post va a pertenecer a un solo usuario.
 
+En el modelo post:
+```php
+public function user()
+
+    {
+
+        return $this->belongsTo(User::class);
+
+    }
+```
+
+Pero un usuario puede tener más de un post.
+
+En el modelo user:
+```php
+
+```
