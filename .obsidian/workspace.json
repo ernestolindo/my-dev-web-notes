@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Relación de tablas.md",
+                "file": "Laravel/Laravel migration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relación de tablas"
+              "title": "Laravel migration"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Laravel/Relación de tablas.md",
+                "file": "Laravel/Laravel migration.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Relación de tablas"
+              "title": "Graph of Laravel migration"
             }
           },
           {
