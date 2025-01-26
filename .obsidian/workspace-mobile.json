@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "91bd0fc5bbeefbcc",
+    "id": "4dc1da8d238f1e6a",
     "type": "split",
     "children": [
       {
-        "id": "c2fe1c738b4c13ed",
+        "id": "63e4009a4e9bc31b",
         "type": "tabs",
         "children": [
           {
-            "id": "2639335bc8b9ff62",
+            "id": "9b7f961378bb8cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Relaciones en las tablas.md",
+                "file": "Mobile note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relaciones en las tablas"
+              "title": "Mobile note"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0bff0a87edcde501",
+    "id": "da2eb8591bde7a40",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2a9bc5de2d274e80",
+        "id": "03f3cb3236335474",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -43,7 +43,7 @@
         }
       },
       {
-        "id": "14c462b4beeea5be",
+        "id": "e315d17be6a27eba",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -60,7 +60,7 @@
         }
       },
       {
-        "id": "4354bc4fb1461afe",
+        "id": "592490a352b17fee",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -73,7 +73,7 @@
         }
       },
       {
-        "id": "0d9a1704e7158a0b",
+        "id": "e9aec66a3c5c26f0",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -86,16 +86,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "227e0317ebbe408d",
+    "id": "7dd9a444495200e7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "99d81ac0cb2498ff",
+        "id": "422275f1d6cc6e09",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Databases/Relaciones en las tablas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
         }
       },
       {
-        "id": "0220117b620b08bd",
+        "id": "e27424f4ffc6d838",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -122,7 +121,7 @@
         }
       },
       {
-        "id": "328736c77780ec08",
+        "id": "35bb5925d1156542",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -130,19 +129,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "ded0cba16e867f47",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,20 +144,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2639335bc8b9ff62",
+  "active": "9b7f961378bb8cdd",
   "lastOpenFiles": [
-    "README.md",
-    "Databases/Relaciones en las tablas.md",
-    "/Databases/Relaciones en las tablas.md",
-    "Relaciones en las tablas.md",
-    "Databases/Data Manipulation Language.md",
-    "Dist folder.md",
-    "/Relaciones en las tablas.md",
-    "/Databases/Data Manipulation Language.md",
-    "/Dist folder.md",
-    "Selection sorting algorithm.md",
+    "Mobile note.md",
+    "htaccess.md",
+    "Version Control/Setting up version control with Git & GitHub.md",
     "SASS.md",
+    "Redirecting URLs to index.php - htaccess.md",
+    "README.md",
     "Preprocessor Scripting Language.md",
+    "PHP & MySQL - Tarea de alojamientos.md",
     "PHP/self keyword.md",
     "PHP/parent keyword.md",
     "PHP/Scope Resolution Operator.md",
@@ -183,10 +168,16 @@
     "Object-Oriented Programming/Design patterns/Singleton Pattern.md",
     "Object-Oriented Programming/Design patterns/Factory Method Pattern.md",
     "Object-Oriented Programming/Design patterns/Decorator Pattern.md",
+    "Object-Oriented Programming/Design patterns/Adapter Pattern.md",
+    "Object-Oriented Programming/Composition.md",
+    "NodeJS/package.json.md",
+    "NodeJS/package-lock.json.md",
+    "Version Control",
     "PHP",
     "Object-Oriented Programming/Design patterns",
     "Object-Oriented Programming",
     "NodeJS",
+    "Laravel",
     "JavaScript",
     "Databases"
   ]
