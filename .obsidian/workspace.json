@@ -167,7 +167,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -337,6 +338,7 @@
   },
   "active": "f65fca7d23ac8133",
   "lastOpenFiles": [
+    "Mobile note.md",
     "Laravel/Laravel MVC.md",
     "Laravel/Relación de tablas.md",
     "Laravel/Laravel migration.md",
@@ -366,7 +368,6 @@
     "Databases/Data Manipulation Language.md",
     "Databases/Relaciones en las tablas.md",
     "Databases/desktop.ini",
-    "Databases/Data Definition Language.md",
     "desktop.ini",
     "Databases",
     "PHP",
